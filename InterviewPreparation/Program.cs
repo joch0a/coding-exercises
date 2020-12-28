@@ -30,5 +30,60 @@ namespace InterviewPreparation
 
             return i == s.Length;
         }
+
+        static int maxDiff(Node root, int k)
+        {
+            int min = Integer.MAX_VALUE;
+
+            while (root != null)
+            {
+                min = Math.min(min, Math.abs(root.data - k));
+
+                if (k > root.data)
+                {
+                    root = root.right;
+                }
+                else if (k < root.data)
+                {
+                    root = root.left;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+
+            return min;
+        }
+
+        // https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1#
+        //class Solution
+        //{
+        //    // Return the minimum absolute difference between any tree node and the integer K
+        //    static int maxDiff(Node root, int k)
+        //    {
+        //        int min = Integer.MAX_VALUE;
+
+        //        while (root != null)
+        //        {
+        //            min = Math.min(min, Math.abs(root.data - k));
+
+        //            if (k > root.data)
+        //            {
+        //                root = root.right;
+        //            }
+        //            else if (k < root.data)
+        //            {
+        //                root = root.left;
+        //            }
+        //            else
+        //            {
+        //                return 0;
+        //            }
+        //        }
+
+        //        return min;
+        //    }
+        //}
     }
 }
