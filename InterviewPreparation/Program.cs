@@ -10,7 +10,8 @@ namespace InterviewPreparation
         }
 
 
-        // https://leetcode.com/problems/is-subsequence/
+        // problem: https://leetcode.com/problems/is-subsequence/
+        // cool video: https://www.youtube.com/watch?v=UsPWwTY0xr4&ab_channel=NareshGupta
 
         public static bool IsSubsequence(string s, string t)
         {
