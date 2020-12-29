@@ -168,5 +168,7 @@ namespace InterviewPreparation
         }
 
         //Product sum https://dev.to/sfrasica/algorithms-product-sum-from-an-array-dc6
+
+        // Binary search iterative https://www.techiedelight.com/binary-search/
     }
 }
