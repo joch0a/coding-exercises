@@ -176,25 +176,25 @@ namespace InterviewPreparation
 
         public static int ThirdMax(int[] nums)
         {
-            var max = int.MinValue;
-            var maxSecond = int.MinValue;
-            var maxThird = int.MinValue;
-            int count = 0;
+            var max = long.MinValue;
+            var maxSecond = long.MinValue;
+            var maxThird = long.MinValue;
+            long count = 0;
 
             foreach (var num in nums)
             {
                 Process(num, ref max, ref maxSecond, ref maxThird, ref count);
             }
 
-            return count >= 3 ? maxThird : max;
+                return count >= 3 ? (int)maxThird : (int) max;
         }
 
-        public static void Process(int value, ref int max1, ref int max2, ref int max3, ref int count)
+        public static void Process(int value, ref long max1, ref long max2, ref long max3, ref long count)
         {
-            if (value == int.MinValue || value != max1 && value != max3 && value != max2)
+            if (value == long.MinValue || (value != max1 && value != max3 && value != max2))
             {
                 count++;
-                int aux;
+                long aux;
 
                 if (value >= max3)
                 {
