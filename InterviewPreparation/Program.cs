@@ -6,6 +6,7 @@ namespace InterviewPreparation
     {
         static void Main(string[] args)
         {
+            ThirdMax(new int[] { -2147483648, -2147483648, -2147483648, -2147483648, 1, 1, 1 });
             Console.WriteLine("Hello World!");
         }
 
@@ -170,5 +171,50 @@ namespace InterviewPreparation
         //Product sum https://dev.to/sfrasica/algorithms-product-sum-from-an-array-dc6
 
         // Binary search iterative https://www.techiedelight.com/binary-search/
+
+        // https://leetcode.com/problems/third-maximum-number/
+
+        public static int ThirdMax(int[] nums)
+        {
+            var max = int.MinValue;
+            var maxSecond = int.MinValue;
+            var maxThird = int.MinValue;
+            int count = 0;
+
+            foreach (var num in nums)
+            {
+                Process(num, ref max, ref maxSecond, ref maxThird, ref count);
+            }
+
+            return count >= 3 ? maxThird : max;
+        }
+
+        public static void Process(int value, ref int max1, ref int max2, ref int max3, ref int count)
+        {
+            if (value == int.MinValue || value != max1 && value != max3 && value != max2)
+            {
+                count++;
+                int aux;
+
+                if (value >= max3)
+                {
+                    max3 = value;
+                }
+
+                if (max3 >= max2)
+                {
+                    aux = max2;
+                    max2 = max3;
+                    max3 = aux;
+                }
+
+                if (max2 > max1)
+                {
+                    aux = max2;
+                    max2 = max1;
+                    max1 = aux;
+                }
+            }
+        }
     }
 }
