@@ -92,18 +92,7 @@ namespace InterviewPreparation
         /**/
         //* Definition for a binary tree node.
 
-        public class TreeNode
-        {
-            public int val;
-            public TreeNode left;
-            public TreeNode right;
-            public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
-            {
-                this.val = val;
-                this.left = left;
-                this.right = right;
-            }
-        }
+
 
         /**
          * Definition for a binary tree node.
@@ -135,93 +124,8 @@ namespace InterviewPreparation
                     return HasPathSum(root.left, sum - root.val) || HasPathSum(root.right, sum - root.val);
             }
         }
-
-        // https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
-
-        public int MaxDepth(TreeNode root)
-        {
-            if (root == null)
-            {
-                return 0;
-            }
-
-            return MaxDepthAux(root, 1);
-        }
-
-        public int MaxDepthAux(TreeNode root, int sum)
-        {
-            if (root == null)
-            {
-                return sum;
-            }
-
-            if (root.left == null && root.right == null)
-            {
-                return sum;
-            }
-
-            return Math.Max(MaxDepthAux(root.left, sum + 1), MaxDepthAux(root.right, sum + 1));
-        }
-
-        //Internet solution
-        public int MaxDepthAlt(TreeNode root)
-        {
-            if (root == null)
-                return 0;
-
-            int left = MaxDepthAlt(root.left);
-            int right = MaxDepthAlt(root.right);
-
-            return Math.Max(left, right) + 1;
-        }
-
         //Product sum https://dev.to/sfrasica/algorithms-product-sum-from-an-array-dc6
 
         // Binary search iterative https://www.techiedelight.com/binary-search/
-
-        // https://leetcode.com/problems/third-maximum-number/
-
-        public static int ThirdMax(int[] nums)
-        {
-            var max = long.MinValue;
-            var maxSecond = long.MinValue;
-            var maxThird = long.MinValue;
-            long count = 0;
-
-            foreach (var num in nums)
-            {
-                Process(num, ref max, ref maxSecond, ref maxThird, ref count);
-            }
-
-            return count >= 3 ? (int)maxThird : (int)max;
-        }
-
-        public static void Process(int value, ref long max1, ref long max2, ref long max3, ref long count)
-        {
-            if (value == long.MinValue || (value != max1 && value != max3 && value != max2))
-            {
-                count++;
-                long aux;
-
-                if (value >= max3)
-                {
-                    max3 = value;
-                }
-
-                if (max3 >= max2)
-                {
-                    aux = max2;
-                    max2 = max3;
-                    max3 = aux;
-                }
-
-                if (max2 > max1)
-                {
-                    aux = max2;
-                    max2 = max1;
-                    max1 = aux;
-                }
-            }
-        }
     }
 }
