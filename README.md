@@ -36,8 +36,8 @@ The idea of this repository is to walk through the most common exercises of the 
 | Move Zeroes | https://leetcode.com/problems/move-zeroes/ | :grey_exclamation: |
 | Monotonic array | https://leetcode.com/problems/monotonic-array/ | :grey_exclamation: |
 | Spiral Matrix :bangbang: | https://leetcode.com/problems/spiral-matrix/ | :o: |
-| Longest peak | :o: | :o: |
-| BST Construction | :o: | :o: |
-| Validate BST | :o: | :o: |
-| BST traversal | :o: | :o: |
-| Min Height BST | :o: | :o: |
+| Longest peak | https://leetcode.com/problems/longest-mountain-in-array/ | :o: |
+| BST Construction | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | :o: |
+| Validate BST | https://leetcode.com/problems/validate-binary-search-tree/ | :o: |
+| Kadane's Algorithm | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :o: |
+| Min Height Trees | https://leetcode.com/problems/minimum-height-trees/ | :o: |
