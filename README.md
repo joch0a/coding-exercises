@@ -6,12 +6,12 @@ The idea of this repository is to walk through the most common exercises of the 
 
 ## Status
 
-| Emoji | Meaning |
+| Meaning | Emoji |
 | --------- |  -----:|
-| :white_check_mark:  | Solved |
-| :o:  | Pending |
-| :grey_exclamation:  | Review needed |
-| :bangbang:  | Very instructive on the topic! |
+| Solved | :white_check_mark: |  
+| Pending | :o: |
+| Review needed | :grey_exclamation: | 
+| Very instructive on the topic! | :bangbang: |  
 
 # Excercises 
 
