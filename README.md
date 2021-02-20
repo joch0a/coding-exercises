@@ -41,3 +41,8 @@ The idea of this repository is to walk through the most common exercises of the 
 | Validate BST | https://leetcode.com/problems/validate-binary-search-tree/ | :o: |
 | Kadane's Algorithm | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :o: |
 | Min Height Trees | https://leetcode.com/problems/minimum-height-trees/ | :o: |
+
+
+# How to contribute?
+
+If you have some interesting and instructive exercise solved on C# feel free to raise a pull request with the solution and the link of the problem.
