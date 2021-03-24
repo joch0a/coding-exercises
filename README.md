@@ -37,7 +37,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Monotonic array | https://leetcode.com/problems/monotonic-array/ | :white_check_mark: |
 | Spiral Matrix :bangbang: | https://leetcode.com/problems/spiral-matrix/ | :white_check_mark: |
 | Longest peak | https://leetcode.com/problems/longest-mountain-in-array/ | :white_check_mark: |
-| BST Construction | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | :o: |
+| BST Construction | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | :white_check_mark: |
 | Validate BST | https://leetcode.com/problems/validate-binary-search-tree/ | :o: |
 | Kadane's Algorithm | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :o: |
 | Min Height Trees | https://leetcode.com/problems/minimum-height-trees/ | :o: |
