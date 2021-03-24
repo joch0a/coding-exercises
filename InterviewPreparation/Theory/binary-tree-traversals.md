@@ -122,7 +122,9 @@ public class BinaryTree
             if (prev == null || prev.left == current || prev.right == current)
             {
                 if (current.left != null)
+                {
                     S.Push(current.left);
+                }
                 else if (current.right != null)
                 {
                     S.Push(current.right);
