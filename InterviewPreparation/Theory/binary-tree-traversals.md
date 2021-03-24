@@ -119,42 +119,36 @@ public class BinaryTree
         {
             Node current = S.Peek();
  
-            /* go down the tree in search of a leaf an if so process it
-                and pop stack otherwise move down */
-            if (prev == null || prev.left == current ||
-                prev.right == current)
+            if (prev == null || prev.left == current || prev.right == current)
             {
-            if (current.left != null)
-                S.Push(current.left);
-            else if (current.right != null)
-                S.Push(current.right);
-            else
-            {
-                S.Pop();
-                list.Add(current.data);
-            }
- 
-            /* go up the tree from left node, if the child is right
-                    push it onto stack otherwise process parent and pop
-                    stack */
+                if (current.left != null)
+                    S.Push(current.left);
+                else if (current.right != null)
+                {
+                    S.Push(current.right);
+                }
+                else
+                {
+                    S.Pop();
+                    list.Add(current.data);
+                }
             }
             else if (current.left == prev)
             {
-            if (current.right != null)
-                S.Push(current.right);
-            else
-            {
-                S.Pop();
-                list.Add(current.data);
-            }
- 
-            /* go up the tree from right node and after coming back
-                    from right node process parent and pop stack */
+                if (current.right != null)
+                {
+                    S.Push(current.right);
+                }
+                else
+                {
+                    S.Pop();
+                    list.Add(current.data);
+                }
             }
             else if (current.right == prev)
             {
-            S.Pop();
-            list.Add(current.data);
+                S.Pop();
+                list.Add(current.data);
             }
  
             prev = current;
