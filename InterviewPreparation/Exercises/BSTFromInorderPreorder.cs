@@ -1,4 +1,6 @@
-﻿namespace InterviewPreparation.Exercises
+﻿using System.Collections.Generic;
+
+namespace InterviewPreparation.Exercises
 {
     public class BSTFromInorderPreorder
     {
