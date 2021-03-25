@@ -43,8 +43,8 @@ The idea of this repository is to walk through the most common exercises of the 
 | Longest peak | https://leetcode.com/problems/longest-mountain-in-array/ | :white_check_mark: |
 | BST Construction | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | :white_check_mark: |
 | Validate BST | https://leetcode.com/problems/validate-binary-search-tree/ | :white_check_mark: |
-| Kadane's Algorithm | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :white_check_mark: |
+| Kadane's Algorithm :bangbang: | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :white_check_mark: |
 | Min Height Trees | https://leetcode.com/problems/minimum-height-trees/ | :white_check_mark: |
 | K’th Largest Element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 | :white_check_mark: |
 | Invert Binary tree | https://leetcode.com/problems/invert-binary-tree/ | :white_check_mark:  |
-| Diameter of Binary tree | https://leetcode.com/problems/diameter-of-binary-tree/ | :o: |
+| Diameter of Binary tree :bangbang: | https://leetcode.com/problems/diameter-of-binary-tree/ | :white_check_mark: |
