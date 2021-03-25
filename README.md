@@ -48,3 +48,13 @@ The idea of this repository is to walk through the most common exercises of the 
 | K’th Largest Element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 | :white_check_mark: |
 | Invert Binary tree | https://leetcode.com/problems/invert-binary-tree/ | :white_check_mark:  |
 | Diameter of Binary tree :bangbang: | https://leetcode.com/problems/diameter-of-binary-tree/ | :white_check_mark: |
+| Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
+| Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
+| Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
+| Levenshtein distance | https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ | :o: |
+| All Paths From Source to Target | https://leetcode.com/problems/all-paths-from-source-to-target/ | :o: |
+| Lowest Common Ancestor of a Binary Search Tree| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | :o: |
+| Task Scheduler | https://leetcode.com/problems/task-scheduler/ | :o: |
+| Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
+
+
