@@ -1,4 +1,6 @@
-﻿namespace InterviewPreparation.Exercises
+﻿using System;
+
+namespace InterviewPreparation.Exercises
 {
     public class DiameterOfBTree
     {
