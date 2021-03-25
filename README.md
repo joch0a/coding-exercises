@@ -48,6 +48,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | K’th Largest Element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 | :white_check_mark: |
 | Invert Binary tree | https://leetcode.com/problems/invert-binary-tree/ | :white_check_mark:  |
 | Diameter of Binary tree :bangbang: | https://leetcode.com/problems/diameter-of-binary-tree/ | :white_check_mark: |
+| ZigZag Ordering | https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/ | :white_check_mark: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
