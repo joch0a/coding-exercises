@@ -51,6 +51,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | ZigZag Ordering | https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/ | :white_check_mark: |
 | Populate right | https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/ | :white_check_mark: |
 | Set Matrix Zeroes | https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/ | :white_check_mark: |
+| Group Anagrams | https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/ | :o: | 
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
