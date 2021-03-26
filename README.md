@@ -35,7 +35,7 @@ The idea of this repository is to walk through the most common exercises of the 
 
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
-| Number of islands :bangbang: | https://leetcode.com/problems/number-of-islands/ | :grey_exclamation: |
+| Number of islands :bangbang: | https://leetcode.com/problems/number-of-islands/ | :white_check_mark: :grey_exclamation: |
 | Three sum| https://leetcode.com/problems/3sum/ | :grey_exclamation: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes/ | :grey_exclamation: |
 | Monotonic array | https://leetcode.com/problems/monotonic-array/ | :white_check_mark: |
