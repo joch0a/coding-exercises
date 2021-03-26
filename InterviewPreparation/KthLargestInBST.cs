@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace InterviewPreparation
 {
-
-
     public class KthLargestInBST
     {
         public int kthLargest(Node root, int K)
