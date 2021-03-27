@@ -17,7 +17,7 @@ namespace InterviewPreparation.Exercises
 
         public IList<IList<int>> ThreeSum(int[] nums)
         {
-            IList<IList<int>> tuples = new List<IList<int>>();
+            var result = new List<IList<int>>();
 
             Array.Sort(nums);
 
@@ -33,7 +33,7 @@ namespace InterviewPreparation.Exercises
                     {
                         if (nums[low] + nums[high] == sum)
                         {
-                            tuples.Add(new int[] { nums[i], nums[low], nums[high] });
+                            result.Add(new List<int>() { -sum, nums[low], nums[high] });
 
                             while (low < high && nums[low] == nums[low + 1])
                             {
@@ -48,19 +48,19 @@ namespace InterviewPreparation.Exercises
                             low++;
                             high--;
                         }
-                        else if (nums[low] + nums[high] > sum)
+                        else if (nums[low] + nums[high] < sum)
                         {
-                            high--;
+                            low++;
                         }
                         else
                         {
-                            low++;
+                            high--;
                         }
                     }
                 }
             }
 
-            return tuples;
+            return result;
         }
     }
 }
