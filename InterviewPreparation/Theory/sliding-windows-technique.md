@@ -11,11 +11,13 @@ In order to do this, we must be able to add elements to our current range when w
 
 The sliding window technique is useful when you need to keep track of a contiguous sequence of elements, such as summing up the values in a subarray
 
+## Example
+
 The following algorithm corresponds to the explained idea:
 
 ![alt text](https://www.baeldung.com/wp-content/ql-cache/quicklatex.com-9df819183fb413ae7d3c9b6c5e5fd43d_l3.svg)
 
-## QUICK NOTE:
+## QUICK NOTE
 Although the algorithm may seem to have a O(n^2) complexity, let’s examine the algorithm carefully. The variable R always keeps its value. Therefore, it only moves forward until it reaches the value of n. Therefore, the number of times we execute the while loop in total is at most n times.
 
 # Practice
