@@ -4,6 +4,7 @@ namespace InterviewPreparation.Exercises
 {
     class IncreasingTripletSolutions
     {
+        // Space o(n), time O(n)
         public bool IncreasingTriplet(int[] nums)
         {
             var left = new int[nums.Length];
@@ -33,5 +34,31 @@ namespace InterviewPreparation.Exercises
 
             return false;
         }
+
+        // Space o(1), time O(n)
+        public bool IncreasingTripletOptimized(int[] nums)
+        {
+            var first = int.MaxValue;
+            var second = int.MaxValue;
+
+            foreach (var num in nums)
+            {
+                if (num <= first)
+                {
+                    first = num;
+                }
+                else if (num <= second)
+                {
+                    second = num;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
     }
+}
 }
