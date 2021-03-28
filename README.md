@@ -56,7 +56,12 @@ The idea of this repository is to walk through the most common exercises of the 
 | Increasing Triplet | https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/ | :grey_exclamation: |
 | Add two numbers| https://leetcode.com/problems/add-two-numbers/ | :grey_exclamation: |
 | Odd Even Linked List| https://leetcode.com/problems/add-two-numbers/ | :white_check_mark: (Revisit o(1) solution) |
-| Intersection of Two Linked Lists  :bangbang :bangbang| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
+| Intersection of Two Linked Lists :bangbang: :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
+| Letter Combinations of a Phone Number | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :o: |
+| Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :o: |
+| Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :o: |
+| Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :o: |
+| Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
