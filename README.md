@@ -53,7 +53,8 @@ The idea of this repository is to walk through the most common exercises of the 
 | Group Anagrams | https://leetcode.com/problems/group-anagrams/ | :grey_exclamation: Low perf |
 | Longest Substring Without Repeating Characters :bangbang: | https://leetcode.com/problems/longest-substring-without-repeating-characters | :grey_exclamation: |
 | Longest palindrome substring | https://leetcode.com/problems/longest-palindromic-substring/ | :white_check_mark: |
-| Increasing Triplet |https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/ | :white_check_mark: |
+| Increasing Triplet | https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/ | :white_check_mark: |
+| Add two numbers| https://leetcode.com/problems/add-two-numbers/ | :white_check_mark: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
