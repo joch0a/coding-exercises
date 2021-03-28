@@ -56,6 +56,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Increasing Triplet | https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/781/ | :grey_exclamation: |
 | Add two numbers| https://leetcode.com/problems/add-two-numbers/ | :grey_exclamation: |
 | Odd Even Linked List| https://leetcode.com/problems/add-two-numbers/ | :white_check_mark: (Revisit o(1) solution) |
+| Intersection of Two Linked Lists| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
