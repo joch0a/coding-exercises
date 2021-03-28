@@ -1,21 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace InterviewPreparation.Exercises
 {
     class SumTwoNumbers
     {
-        public class ListNode
-        {
-            public int val;
-            public ListNode next;
-            public ListNode(int val = 0, ListNode next = null)
-            {
-                this.val = val;
-                this.next = next;
-            }
-        }
-
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
             ListNode head = new ListNode();
