@@ -59,7 +59,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Intersection of Two Linked Lists :bangbang: :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
 | Letter Combinations of a Phone Number :bangbang: :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :grey_exclamation: |
 | Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :white_check_mark: |
-| Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :o: |
+| Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :white_check_mark: |
 | Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :o: |
 | Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
