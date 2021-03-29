@@ -60,7 +60,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Letter Combinations of a Phone Number :bangbang: :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :grey_exclamation: |
 | Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :white_check_mark: |
 | Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :white_check_mark: |
-| Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :o: |
+| Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :white_check_mark: |
 | Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
