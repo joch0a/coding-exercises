@@ -58,7 +58,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Odd Even Linked List| https://leetcode.com/problems/add-two-numbers/ | :white_check_mark: (Revisit o(1) solution) |
 | Intersection of Two Linked Lists :bangbang: :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
 | Letter Combinations of a Phone Number :bangbang: :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :grey_exclamation: |
-| Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :o: |
+| Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :white_check_mark: |
 | Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :o: |
 | Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :o: |
 | Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :o: |
