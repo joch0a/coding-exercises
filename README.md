@@ -62,6 +62,14 @@ The idea of this repository is to walk through the most common exercises of the 
 | Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :white_check_mark: |
 | Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :white_check_mark: |
 | Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :white_check_mark: |
+| Sort Colors :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/ | :white_check_mark: |
+| Top K Frequent Elements | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/ | :o: |
+| Kth Largest Element in an Array | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/ | :o: |
+| Find Peak Element | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/ | :o: |
+| Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :o: |
+| Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :o: |
+| Search in Rotated Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :o: |
+| Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
