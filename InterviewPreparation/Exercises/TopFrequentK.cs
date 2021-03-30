@@ -66,6 +66,48 @@ namespace InterviewPreparation.Exercises
             return pivotLocation;
         }
 
+        public int FindKthLargest(int[] nums, int k)
+        {
+            return FindKthLargest(nums, k, 0, nums.Length - 1);
+        }
+
+        private int FindKthLargest(int[] nums, int k, int left, int right)
+        {
+            var pivotPosition = partition(nums, left, right);
+
+            if (pivotPosition == nums.Length - k)
+            {
+                return nums[pivotPosition];
+            } // [2,3,4,5,7t,8,9,10p,12]
+            else if (pivotPosition < nums.Length - k)
+            {
+                return FindKthLargest(nums, k, pivotPosition + 1, right);
+            }
+            else
+            {
+                return FindKthLargest(nums, k, left, pivotPosition - 1);
+            }
+        }
+
+        private int partition(int[] nums, int left, int right)
+        {
+            var pivotValue = nums[right];
+            var pivotIndex = left;
+
+            for (int i = left; i < right; i++)
+            {
+                if (pivotValue > nums[i])
+                {
+                    Swap(pivotIndex, i, nums);
+                    pivotIndex++;
+                }
+            }
+
+            Swap(pivotIndex, right, nums);
+
+            return pivotIndex;
+        }
+
         private void Swap(int i, int j, int[] arr)
         {
             int aux = arr[i];
