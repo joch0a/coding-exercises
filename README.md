@@ -63,7 +63,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :white_check_mark: |
 | Word Search | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/ | :white_check_mark: |
 | Sort Colors :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/ | :white_check_mark: |
-| Top K Frequent Elements :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/ | :o: |
+| Top K Frequent Elements :bangbang::bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/ | :white_check_mark: |
 | Kth Largest Element in an Array | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/ | :o: |
 | Find Peak Element | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/ | :o: |
 | Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :o: |
