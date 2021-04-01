@@ -66,7 +66,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Top K Frequent Elements :bangbang::bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/ | :white_check_mark: |
 | Kth Largest Element in an Array | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/800/ | :white_check_mark: |
 | Find Peak Element :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/ | :grey_exclamation: |
-| Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :o: |
+| Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :grey_exclamation: |
 | Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :o: |
 | Search in Rotated Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :o: |
 | Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :o: |
