@@ -70,7 +70,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :grey_exclamation: |
 | Search in Rotated Sorted Array :bangbang:  | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :grey_exclamation: |
 | Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: |
-| Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :o: |
+| Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :white_check_mark: |
 | Unique Paths | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
