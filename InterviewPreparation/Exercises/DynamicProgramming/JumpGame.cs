@@ -35,7 +35,7 @@ namespace InterviewPreparation.Exercises.DynamicProgramming
 
         //Greedy approach
 
-        public bool CanJump(int[] nums)
+        public bool CanJumpGreede(int[] nums)
         {
             int lastGoodPosition = nums.Length - 1;
 
@@ -47,5 +47,4 @@ namespace InterviewPreparation.Exercises.DynamicProgramming
             return lastGoodPosition == 0;
         }
     }
-}
 }
