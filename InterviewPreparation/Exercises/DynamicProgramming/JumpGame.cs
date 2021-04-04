@@ -33,6 +33,19 @@ namespace InterviewPreparation.Exercises.DynamicProgramming
             return true;
         }
 
+        //Greedy approach
 
+        public bool CanJump(int[] nums)
+        {
+            int lastGoodPosition = nums.Length - 1;
+
+            for (int i = nums.Length - 1; i >= 0; i--)
+            {
+                lastGoodPosition = i + nums[i] >= lastGoodPosition ? i : lastGoodPosition;
+            }
+
+            return lastGoodPosition == 0;
+        }
     }
+}
 }
