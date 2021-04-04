@@ -72,7 +72,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: |
 | Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :white_check_mark: |
 | Unique Paths | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/ | :white_check_mark: |
-| Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
+| Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Levenshtein distance | https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ | :o: |
