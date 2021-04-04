@@ -69,7 +69,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :grey_exclamation: |
 | Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :grey_exclamation: |
 | Search in Rotated Sorted Array :bangbang:  | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :grey_exclamation: |
-| Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :o: |
+| Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
