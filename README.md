@@ -70,9 +70,11 @@ The idea of this repository is to walk through the most common exercises of the 
 | Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :grey_exclamation: |
 | Search in Rotated Sorted Array :bangbang:  | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :grey_exclamation: |
 | Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: |
-| Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
+| Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :o: |
+| Unique Paths | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/ | :o: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
+| Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
 | Levenshtein distance | https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ | :o: |
 | All Paths From Source to Target | https://leetcode.com/problems/all-paths-from-source-to-target/ | :o: |
 | Lowest Common Ancestor of a Binary Search Tree| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | :o: |
