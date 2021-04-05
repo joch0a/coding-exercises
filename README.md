@@ -81,5 +81,4 @@ The idea of this repository is to walk through the most common exercises of the 
 | Lowest Common Ancestor of a Binary Search Tree| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | :o: |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler/ | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
-
-
+| Majority Element | https://leetcode.com/problems/majority-element/solution/ | :white_check_mark: |
