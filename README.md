@@ -96,3 +96,4 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Largest Substring Between Two Equal Character | https://leetcode.com/problems/largest-substring-between-two-equal-characters/ | :white_check_mark: |
 | Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/ | :white_check_mark: (Kinda hard) |
 | Minimum Changes To Make Alternating Binary String | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/ | :white_check_mark: |
+| Find the Difference | https://leetcode.com/problems/find-the-difference/ | :white_check_mark: |
