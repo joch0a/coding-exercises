@@ -94,4 +94,5 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid anagrams | https://leetcode.com/problems/valid-anagram/ | :white_check_mark: |
 | Add digits | https://leetcode.com/problems/add-digits/submissions/ | :white_check_mark: |
 | Largest Substring Between Two Equal Character | https://leetcode.com/problems/largest-substring-between-two-equal-characters/ | :white_check_mark: |
+| Count Binary Substrings | https://leetcode.com/problems/count-binary-substrings/ | :white_check_mark: (Kinda hard) |
 
