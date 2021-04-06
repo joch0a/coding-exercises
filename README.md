@@ -17,7 +17,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Review needed | :grey_exclamation: | 
 | Very instructive on the topic! | :bangbang: |  
 
-# Excercises 
+# Most Common Excercises 
 
 ## Easy
 | Name      | Resource link | Status |
@@ -82,3 +82,14 @@ The idea of this repository is to walk through the most common exercises of the 
 | Task Scheduler | https://leetcode.com/problems/task-scheduler/ | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | :white_check_mark: |
+
+# Test skills 
+
+The following exercises were randomly picked it from LC to test what I've learnt so far
+
+## Easy
+| Name      | Resource link | Status |
+| --------- | ----- | -----:|
+| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | :white_check_mark: |
+| Valid anagrams | https://leetcode.com/problems/valid-anagram/ | :white_check_mark: |
+
