@@ -92,4 +92,5 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | --------- | ----- | -----:|
 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | :white_check_mark: |
 | Valid anagrams | https://leetcode.com/problems/valid-anagram/ | :white_check_mark: |
+| Add digits | https://leetcode.com/problems/add-digits/submissions/ | :white_check_mark: |
 
