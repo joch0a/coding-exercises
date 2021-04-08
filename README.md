@@ -32,6 +32,10 @@ The idea of this repository is to walk through the most common exercises of the 
 | Find three largest numbers | https://leetcode.com/problems/third-maximum-number/ | :white_check_mark: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/ | :white_check_mark: |
 | Rotate Array| https://leetcode.com/problems/rotate-array/ | :white_check_mark: |
+| Contains Duplicate | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/ | :white_check_mark: |
+| Unique number| https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/ | :white_check_mark: |
+
+
 
 ## Medium
 
