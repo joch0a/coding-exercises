@@ -22,14 +22,15 @@ The idea of this repository is to walk through the most common exercises of the 
 ## Easy
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
-|Nth Fibonacci | https://leetcode.com/problems/fibonacci-number/ | :white_check_mark: |
-|Two Number Sum | https://leetcode.com/problems/two-sum/ | :white_check_mark: |
-|Validate Subsequence | https://leetcode.com/problems/is-subsequence/ | :white_check_mark: |
-|Find closest value in BST | https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/ | :white_check_mark: |
-|Path sum | https://leetcode.com/problems/path-sum/ | :white_check_mark: |
-|Maximum Depth of Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | :white_check_mark: |
-|Binary Search | https://www.geeksforgeeks.org/c-program-for-binary-search-recursive-and-iterative/ | :white_check_mark: |
-|Find three largest numbers | https://leetcode.com/problems/third-maximum-number/ | :white_check_mark: |
+| Nth Fibonacci | https://leetcode.com/problems/fibonacci-number/ | :white_check_mark: |
+| Two Number Sum | https://leetcode.com/problems/two-sum/ | :white_check_mark: |
+| Validate Subsequence | https://leetcode.com/problems/is-subsequence/ | :white_check_mark: |
+| Find closest value in BST | https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/ | :white_check_mark: |
+| Path sum | https://leetcode.com/problems/path-sum/ | :white_check_mark: |
+| Maximum Depth of Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | :white_check_mark: |
+| Binary Search | https://www.geeksforgeeks.org/c-program-for-binary-search-recursive-and-iterative/ | :white_check_mark: |
+| Find three largest numbers | https://leetcode.com/problems/third-maximum-number/ | :white_check_mark: |
+| Remove Duplicates from Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/ | :white_check_mark: |
 
 ## Medium
 
