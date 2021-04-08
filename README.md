@@ -31,6 +31,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Binary Search | https://www.geeksforgeeks.org/c-program-for-binary-search-recursive-and-iterative/ | :white_check_mark: |
 | Find three largest numbers | https://leetcode.com/problems/third-maximum-number/ | :white_check_mark: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/ | :white_check_mark: |
+| Rotate Array| https://leetcode.com/problems/rotate-array/ | :white_check_mark: |
 
 ## Medium
 
