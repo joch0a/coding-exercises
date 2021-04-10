@@ -6,14 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Theory\arrays\prefix-sum.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="Theory\arrays\prefix-sum.md" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
   </ItemGroup>
 
