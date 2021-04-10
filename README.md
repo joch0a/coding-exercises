@@ -47,6 +47,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | StrStr | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/ | :white_check_mark: |
 | Count And Say| https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/ | :white_check_mark: |
 | Longest common prefix  | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/ | :white_check_mark: Try 3&4 approach |
+| Delete node in a linked list  | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/ | :white_check_mark: Try 3&4 approach |
 
 ## Medium
 
@@ -86,7 +87,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Search for a Range | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/ | :grey_exclamation: |
 | Merge Intervals | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/ | :grey_exclamation: |
 | Search in Rotated Sorted Array :bangbang:  | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/ | :grey_exclamation: |
-| Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: |
+| Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: Check divide and conquer sol|
 | Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :white_check_mark: |
 | Unique Paths | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/ | :white_check_mark: |
 | Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :white_check_mark: |
