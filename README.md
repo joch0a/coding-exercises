@@ -34,8 +34,19 @@ The idea of this repository is to walk through the most common exercises of the 
 | Rotate Array| https://leetcode.com/problems/rotate-array/ | :white_check_mark: |
 | Contains Duplicate | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/ | :white_check_mark: |
 | Unique number| https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/ | :white_check_mark: |
-
-
+| Intersection of Two Arrays II| https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/ | :white_check_mark: |
+| Plus One | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/ | :white_check_mark: |
+| Valid Sudoku| https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/ | :white_check_mark: |
+| Rotate image | https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/ | :white_check_mark: |
+| Reverse String | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/ | :white_check_mark: |
+| Reverse Integer | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/ | :white_check_mark: Tricky condition |
+| First Unique Character in a String | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/ | :white_check_mark: |
+| Valid Anagram | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/ | :white_check_mark: |
+| Valid Palindrome | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/ | :white_check_mark: |
+| ATOI | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/ | :white_check_mark: Annoying |
+| StrStr | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/ | :white_check_mark: |
+| Count And Say| https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/ | :white_check_mark: |
+| Longest common prefix  | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/ | :white_check_mark: Try 3&4 approach |
 
 ## Medium
 
