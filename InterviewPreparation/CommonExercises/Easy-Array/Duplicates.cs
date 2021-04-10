@@ -2,6 +2,7 @@
 
 namespace InterviewPreparation.CommonExercises.Easy_Array
 {
+    //https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
     class Duplicates
     {
         public bool ContainsDuplicate(int[] nums)
@@ -21,5 +22,4 @@ namespace InterviewPreparation.CommonExercises.Easy_Array
             return false;
         }
     }
-}
 }
