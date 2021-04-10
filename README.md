@@ -48,6 +48,11 @@ The idea of this repository is to walk through the most common exercises of the 
 | Count And Say| https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/ | :white_check_mark: |
 | Longest common prefix  | https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/ | :white_check_mark: Try 3&4 approach |
 | Delete node in a linked list  | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/ | :white_check_mark: Try 3&4 approach |
+| Best Time To Buy&Sell Stocks| https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572 | :white_check_mark: (DP Quite forced) |
+| Climbing Stairs | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/ | :white_check_mark: |
+| House Robber | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/ | :white_check_mark: |
+
+
 
 ## Medium
 
