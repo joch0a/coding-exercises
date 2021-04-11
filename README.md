@@ -123,12 +123,15 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Shortest completing word| https://leetcode.com/problems/shortest-completing-word | :white_check_mark: |
 | Maximum Score After Splitting a String :bangbang: | https://leetcode.com/problems/maximum-score-after-splitting-a-string/ | :white_check_mark: |
 
-## Hard
+
+
+## Medium
 
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Surrounded Regions | https://leetcode.com/problems/surrounded-regions/ | :white_check_mark: |
-
+| Deepest Leaves Sum | https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/
+ | :white_check_mark: |
 
 ## Hard
 
