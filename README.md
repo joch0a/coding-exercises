@@ -52,7 +52,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Climbing Stairs | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/ | :white_check_mark: |
 | House Robber | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/ | :white_check_mark: |
 | Reverse List | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/ | :white_check_mark: |
-| Merge two sorted lists| https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/ | :white_check_mark: |
+| Merge two sorted lists| https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/ | :white_check_mark: Instructive line to review!|
 
 ## Medium
 

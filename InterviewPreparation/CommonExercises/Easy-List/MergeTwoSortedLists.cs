@@ -22,7 +22,6 @@ namespace InterviewPreparation.CommonExercises.Easy_List
             ListNode dummy = new ListNode();
             ListNode result = dummy;
 
-
             while (actual1 != null && actual2 != null)
             {
                 if (actual1.val < actual2.val)
@@ -38,6 +37,8 @@ namespace InterviewPreparation.CommonExercises.Easy_List
 
                 result = result.next;
             }
+
+            //result.next = actual1 ?? actual2; -----------------> Instructive line!!! we can replace the followings whiles with this line
 
             while (actual1 != null)
             {
