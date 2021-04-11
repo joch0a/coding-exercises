@@ -51,7 +51,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Best Time To Buy&Sell Stocks| https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572 | :white_check_mark: (DP Quite forced) |
 | Climbing Stairs | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/ | :white_check_mark: |
 | House Robber | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/ | :white_check_mark: |
-
+| Reverse List | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/ | :white_check_mark: |
 
 
 ## Medium
@@ -122,4 +122,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find the Difference | https://leetcode.com/problems/find-the-difference/ | :white_check_mark: |
 | Shortest completing word| https://leetcode.com/problems/shortest-completing-word | :white_check_mark: |
 | Maximum Score After Splitting a String :bangbang: | https://leetcode.com/problems/maximum-score-after-splitting-a-string/ | :white_check_mark: |
+
+## Hard
+
+| Longest Increasing Path in a Matrix :bangbang: | https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/ | :white_check_mark: |
 
