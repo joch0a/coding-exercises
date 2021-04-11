@@ -125,5 +125,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 
 ## Hard
 
+| Name      | Resource link | Status |
+| --------- | ----- | -----:|
+| Surrounded Regions | https://leetcode.com/problems/surrounded-regions/ | :white_check_mark: |
+
+
+## Hard
+
+| Name      | Resource link | Status |
+| --------- | ----- | -----:|
 | Longest Increasing Path in a Matrix :bangbang: | https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3703/ | :white_check_mark: |
 
