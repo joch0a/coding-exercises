@@ -19,5 +19,26 @@ namespace InterviewPreparation.CommonExercises.Easy_List
                 return actual;
             }
         }
+
+        public ListNode ReverseListTwoPointers(ListNode head)
+        {
+            if (head == null)
+            {
+                return null;
+            }
+
+            var slow = head;
+            ListNode prev = null;
+
+            while (slow != null)
+            {
+                var tmp = slow.next;
+                slow.next = prev;
+                prev = slow;
+                slow = tmp;
+            }
+
+            return prev;
+        }
     }
 }
