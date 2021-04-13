@@ -27,5 +27,42 @@ namespace InterviewPreparation.CommonExercises.Easy_List
 
             return false;
         }
+
+        public ListNode DetectCycleII(ListNode head)
+        {
+            if (head == null)
+            {
+                return null;
+            }
+
+            var fast = head;
+            var slow = head;
+
+            while (fast != null && fast.next != null)
+            {
+                fast = fast.next.next;
+                slow = slow.next;
+
+                if (fast == slow)
+                {
+                    break;
+                }
+            }
+
+            if (fast == null || fast.next == null)
+            {
+                return null;
+            }
+
+            slow = head;
+
+            while (fast != slow)
+            {
+                fast = fast.next;
+                slow = slow.next;
+            }
+
+            return fast;
+        }
     }
 }
