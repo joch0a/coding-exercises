@@ -53,6 +53,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | House Robber | https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/ | :white_check_mark: |
 | Reverse List | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/ | :white_check_mark: |
 | Merge two sorted lists| https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/ | :white_check_mark: Instructive line to review!|
+| Symmetric Tree | https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/ | :white_check_mark: It can be improved, try making a single while w/o lists |
 
 ## Medium
 
