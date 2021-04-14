@@ -58,6 +58,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Detect cycle linked list :bangbang::bangbang::bangbang:| https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/ | :white_check_mark: !!!!!!! |
 | RemoveNthFromEnd |https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | :grey_exclamation: |
 | LinkedList Palindrome :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/ | :white_check_mark: |
+| Level order trasversal | https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/ | :white_check_mark: |
 
 ## Medium
 
