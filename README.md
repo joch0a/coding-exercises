@@ -149,6 +149,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
 
+| Name      | Resource link | Status |
+| --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :o: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :o: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :o: |
