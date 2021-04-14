@@ -60,8 +60,8 @@ The idea of this repository is to walk through the most common exercises of the 
 | LinkedList Palindrome :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/ | :white_check_mark: |
 | Level order trasversal | https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/ | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/ | :white_check_mark: |
-
-
+| Merge Two Sorted Array | https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/ | :white_check_mark: |
+| First bad version | https://leetcode.com/problems/first-bad-version | :white_check_mark: |
 ## Medium
 
 | Name      | Resource link | Status |
