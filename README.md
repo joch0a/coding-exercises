@@ -151,7 +151,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
-| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :o: |
+| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :o: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :o: |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :o: |
