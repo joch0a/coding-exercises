@@ -152,8 +152,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
-| Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :o: |
-| Remove K Digits | https://leetcode.com/problems/remove-k-digits | :o: |
+| Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
+| Remove K Digits | https://leetcode.com/problems/remove-k-digits | NEED TO STUDY MORE STACKS |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :o: |
 | Two Sum | https://leetcode.com/problems/two-sum | :o: |
 | Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :o: |
