@@ -74,5 +74,42 @@ namespace InterviewPreparation.Exercises
             }
             return dummyHead.next;
         }
+
+        public ListNode AddTwoNumbersRevisited(ListNode l1, ListNode l2)
+        {
+            var carry = 0;
+            var p1 = l1;
+            var p2 = l2;
+            var dummy = new ListNode();
+            var actual = dummy;
+
+            while (p1 != null || p2 != null || carry > 0)
+            {
+                var n1 = 0;
+                var n2 = 0;
+
+                if (p1 != null)
+                {
+                    n1 = p1.val;
+                    p1 = p1.next;
+                }
+
+                if (p2 != null)
+                {
+                    n2 = p2.val;
+                    p2 = p2.next;
+                }
+
+                var sum = n1 + n2 + carry;
+
+                var next = new ListNode(sum % 10);
+                carry = sum / 10;
+
+                actual.next = next;
+                actual = actual.next;
+            }
+
+            return dummy.next;
+        }
     }
 }
