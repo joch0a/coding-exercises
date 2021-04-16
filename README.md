@@ -154,13 +154,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: NEED TO STUDY MORE STACKS |
-| Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :o: |
-| Two Sum | https://leetcode.com/problems/two-sum | :o: |
-| Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :o: |
-| Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :o: |
-| LRU Cache | https://leetcode.com/problems/Iru-cache | :o: |
-| Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :o: |
-| Meeting Rooms I! | https://leetcode.com/problems/meeting-rooms-ii | :o: | 
+| Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: |
+| Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
+| (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | X |
+| Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
+| (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
+| Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
+| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :o: | 
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix | :o: |
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :o: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :o: |
