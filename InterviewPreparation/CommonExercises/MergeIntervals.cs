@@ -33,5 +33,25 @@ namespace InterviewPreparation.Exercises
 
             return res.ToArray();
         }
+        //my guess
+        public int MeetingRoomsII(int[][] intervals)
+        {
+            var conflicts = 0;
+            
+            Array.Sort(intervals, (i1, i2) => i1[0].CompareTo(i2[0]));
+
+            for (int i = 0; i < intervals.Length; i++)
+            {
+                for (int j = i + 1; j < intervals.Length; i++) 
+                {
+                    if (intervals[i][1] > intervals[j][0]) 
+                    {
+                        conflicts = 0;
+                    }
+                }
+            }
+
+            return conflicts;
+        }
     }
 }
