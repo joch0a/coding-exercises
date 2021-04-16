@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-
+## Actual state 9/288  3.125%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -160,9 +160,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
 | (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
-| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :o: | 
-| Spiral Matrix | https://leetcode.com/problems/spiral-matrix | :o: |
-| Number of Islands | https://leetcode.com/problems/number-of-islands | :o: |
+| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | X | 
+| Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
+| Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :o: |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :o: |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :o: |
