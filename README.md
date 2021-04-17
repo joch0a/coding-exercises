@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 15/288  5.2%
+## Actual state 16/288  5.55%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -176,7 +176,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :X: |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :o: |
-| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :o: |
+| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
 | Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :o: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :o: |
