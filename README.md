@@ -165,7 +165,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: |
-| Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :o: |
+| Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | String Compression | https://leetcode.com/problems/string-compression | :o: |
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :o: |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
