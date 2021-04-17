@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 11/288  3.819%
+## Actual state 15/288  5.2%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -166,15 +166,15 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
-| String Compression | https://leetcode.com/problems/string-compression | :o: |
+| String Compression | https://leetcode.com/problems/string-compression | :white_check_mark: |
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :o: |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
-| Rotate Image | https://leetcode.com/problems/rotate-image | :o: |
+| Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
-| String to Integer | https://leetcode.comatoi | :o: | | https://leetcode.com/problems/string-to-inte ger-atoi | :o: |
-| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-iil | :o: |
-| Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :o: |
+| String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :o: |
+| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :X: |
+| Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :o: |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :o: |
 | Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :o: |
