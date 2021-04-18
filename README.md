@@ -177,7 +177,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
-| Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :o: |
+| (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :o: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :o: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :o: |
