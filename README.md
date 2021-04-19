@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 17/288  5.59%
+## Actual state 17/288  6.59%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -180,7 +180,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
-| Sort Colors | https://leetcode.com/problems/sort-colors | :o: |
+| Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :o: |
 | Inorder Successor in BST 
