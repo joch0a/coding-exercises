@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
-| Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :o: |
+| Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :o: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :o: |
