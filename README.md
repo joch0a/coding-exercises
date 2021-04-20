@@ -182,8 +182,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
-| Remove Comments | https://leetcode.com/problems/remove-comments | :o: |
-| Inorder Successor in BST 
+| Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
 | Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :o: |
 | Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :o: |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :o: |
