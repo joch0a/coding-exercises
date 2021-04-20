@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 18/287  6.27%
+## Actual state 19/287  6.62%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -183,7 +183,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
-| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :o: |
+| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: Review follow-up question |
 | Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :o: |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :o: |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :o: |
