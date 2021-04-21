@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 23/287  8.01%
+## Actual state 25/287  8.71%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -189,11 +189,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
-| Word Search | https://leetcode.com/problems/word-search | :o: |
-| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :o: | af?
+| Word Search | https://leetcode.com/problems/word-search | :white_check_mark: |
+| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :X: |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
-| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :o: |
+| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :o: |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer | :o: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
