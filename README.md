@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 19/287  6.62%
+## Actual state 23/287  8.01%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -184,10 +184,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
 | Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: Review follow-up question |
-| Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :o: |
-| Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :o: |
-| Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :o: |
-| Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :o: |
+| Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :white_check_mark: |
+| Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
+| Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
+| Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
 | Word Search | https://leetcode.com/problems/word-search | :o: |
 | Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :o: | af?
