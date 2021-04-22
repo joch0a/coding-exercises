@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 25/287  8.71%
+## Actual state 27/287  9.40%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -211,13 +211,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :o: |
 | Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :o: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :o: |
-| Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :o: |
+| Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
 | Reverse String | https://leetcode.com/problems/reverse-string | :o: |
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :o: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :o: |
 | Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :o: |
 | Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
-| Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :o: |
+| Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
 | Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :o: |
 | Implement Trie | https://leetcode.comPrefix Tree | :o: | | https://leetcode.com/oroblems/implement-trie-prefix-tree | :o: |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :o: |
