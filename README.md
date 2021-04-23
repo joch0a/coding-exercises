@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 29/287  9.40%
+## Actual state 35/287  12.19%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -194,13 +194,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
-| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :o: |
-| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :o: |
+| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
+| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
-| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :o: |
-| Majority Element II | https://leetcode.com/problems/majority-element-ii | :o: |
+| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
+| Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :o: |
 | HAE! Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :o: |
@@ -214,16 +214,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
 | Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
-| Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :o: |
-| Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :o: |
+| Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
+| Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :white_check_mark: |
 | Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
-| Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :o: |
+| Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
 | Implement Trie | https://leetcode.comPrefix Tree | :o: | | https://leetcode.com/oroblems/implement-trie-prefix-tree | :o: |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :o: |
-| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :o: |
-| Lungeon Game | https://leetcode.com/problems/aungeon-game | :o: |
-| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :o: |
+| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
+| Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
+| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Basic Calculator || | https://leetcode.com/problems/basic-calculator-ii | :o: |
 | 3Sum | https://leetcode.com/problems/3sum | :o: |
