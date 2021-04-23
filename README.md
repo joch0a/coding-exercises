@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 27/287  9.40%
+## Actual state 29/287  9.40%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -212,8 +212,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :o: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :o: |
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
-| Reverse String | https://leetcode.com/problems/reverse-string | :o: |
-| Group Anagrams | https://leetcode.com/problems/group-anagrams | :o: |
+| Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |
+| Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :o: |
 | Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :o: |
 | Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
