@@ -199,8 +199,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
-| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :o: |
-| Majority Element II | https://leetcode.com/problems/majority-element-ii | :o: |
+| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
+| Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :o: |
 | HAE! Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :o: |
