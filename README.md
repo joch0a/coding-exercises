@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 30/287  9.56%
+## Actual state 31/287  10.80%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -194,7 +194,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
-| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :o: |
+| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer | :o: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
