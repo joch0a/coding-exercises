@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 25/287  8.71%
+## Actual state 30/287  9.56%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -214,16 +214,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :o: |
 | Reverse String | https://leetcode.com/problems/reverse-string | :o: |
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :o: |
-| Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :o: |
-| Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :o: |
+| Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
+| Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :white_check_mark: |
 | Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :o: |
-| Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :o: |
+| Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
 | Implement Trie | https://leetcode.comPrefix Tree | :o: | | https://leetcode.com/oroblems/implement-trie-prefix-tree | :o: |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :o: |
-| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :o: |
-| Lungeon Game | https://leetcode.com/problems/aungeon-game | :o: |
-| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :o: |
+| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
+| Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
+| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Basic Calculator || | https://leetcode.com/problems/basic-calculator-ii | :o: |
 | 3Sum | https://leetcode.com/problems/3sum | :o: |
