@@ -195,7 +195,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
-| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :o: |
+| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
