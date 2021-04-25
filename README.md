@@ -203,7 +203,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
-| HAE! Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :o: |
+| Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :white_check_mark: |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
 | Coin Change | https://leetcode.com/problems/coin-change | :o: |
