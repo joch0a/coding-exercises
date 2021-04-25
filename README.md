@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 35/287  12.19%
+## Actual state 36/287  12.54%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -202,7 +202,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
-| Next Permutation | https://leetcode.com/problems/next-permutation | :o: |
+| Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
 | HAE! Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :o: |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
