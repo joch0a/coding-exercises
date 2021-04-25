@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 39/287  13.58%
+## Actual state 40/287  13.58%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -209,7 +209,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :o: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
-| Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :o: |
+| Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :white_check_mark: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :o: |
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
 | Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |

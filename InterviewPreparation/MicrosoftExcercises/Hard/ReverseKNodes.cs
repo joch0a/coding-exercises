@@ -4,7 +4,7 @@ namespace InterviewPreparation.MicrosoftExcercises.Hard
 {
     class ReverseKNodes
     {
-        public ListNode ReverseKNodes(ListNode head, int k)
+        public ListNode Solve(ListNode head, int k)
         {
             if (k < 1)
             {
