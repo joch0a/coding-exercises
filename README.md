@@ -148,8 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 42/287  14.63%
-| Name      | Resource link | Status |
+## Actual state 44/287  15.33%
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
@@ -388,14 +387,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Friend Circles | https://leetcode.com/problems/friend-circles | :o: |
 | Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarray | :o: |
 | Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array | :o: |
-| First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :o: |
+| First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :o: |
 | Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
 | Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule | :o: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
-| Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :o: |
+| Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
 | Maximal Square | https://leetcode.com/problems/maximal-square | :o: |
 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
