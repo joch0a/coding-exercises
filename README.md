@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 44/287  15.33%
+## Actual state 45/287  15.33%
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
@@ -317,7 +317,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :o: |
-| Move Zeroes | https://leetcode.com/problems/move-zeroes | :o: |
+| Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
 | K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
