@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 40/287  13.58%
+## Actual state 41/287  14.28%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -263,7 +263,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :o: |
-| Clone Graph | https://leetcode.com/problems/clone-graph | :o: |
+| Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
 | LFU Cache | https://leetcode.com/problems/Ifu-cache | :o: |
 | Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :o: |
 | Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
@@ -319,7 +319,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :o: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes | :o: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o: | =f
+| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :o: |
@@ -328,7 +328,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :o: |
 | Word Ladder Il | https://leetcode.com/problems/word-ladder-ii | :o: |
 | Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :o: |
-| Permutations | https://leetcode.com/problems/permutations | :o: |
+| Permutations | https://leetcode.com/problems/permutations | :white_check_mark: |
 | Jump Game | https://leetcode.com/problems/jump-game | :o: |
 | Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :o: |
 | My Calendar | | https://leetcode.com/problems/my-calendar-i | :o: |
