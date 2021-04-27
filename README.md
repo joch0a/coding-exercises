@@ -148,7 +148,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 41/287  14.28%
+## Actual state 42/287  14.63%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -251,7 +251,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :o: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
 | Gas Station | https://leetcode.com/problems/gas-station | :o: |
-| Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :o: |
+| Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :o: |
