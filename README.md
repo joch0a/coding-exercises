@@ -149,6 +149,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
 ## Actual state 45/287  15.33%
+| Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
@@ -274,7 +275,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :o: |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :o: |
 | Min Stack | https://leetcode.com/problems/min-stack | :o: |
-| The Maze | https://leetcode.com/problems/the-maze | :o: |
+| The Maze | https://leetcode.com/problems/the-maze | :X: |
 | Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :o: |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :o: |
@@ -367,7 +368,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :o: |
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
-| Palindrome Number | https://leetcode.com/problems/palindrome-number | :o: |
+| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
 | Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :o: |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
