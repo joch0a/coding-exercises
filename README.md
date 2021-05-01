@@ -122,7 +122,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Spiral Matrix | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/ | :o: |
 | 4Sum II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/ | :white_check_mark: |
 | Container with most water | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/ | :white_check_mark: EASY TO IMPLEMENT, HARD TO THINK|
-| Game of life | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/ | :o: |
+| Game of life | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/ | :white_check_mark: |
 | First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/833/ | :o: |
 | Find the Duplicate Number | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/ | :o: |
