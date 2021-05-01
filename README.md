@@ -114,13 +114,13 @@ The idea of this repository is to walk through the most common exercises of the 
 | Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | :white_check_mark: |
 
-## Medium
+## Hard
 
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Product of Array Except Self | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/ | :white_check_mark: |
 | Spiral Matrix | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/ | :o: |
-| 4Sum II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/ | :o: |
+| 4Sum II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/ | :white_check_mark: |
 | Container with most water | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/ | :o: |
 | Game of life | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/ | :o: |
 | First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :o: |
@@ -149,8 +149,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Surrounded Regions | https://leetcode.com/problems/surrounded-regions/ | :white_check_mark: |
-| Deepest Leaves Sum | https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/
- | :white_check_mark: |
+| Deepest Leaves Sum | https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/ | :white_check_mark: |
+
 
 ## Hard
 
