@@ -272,7 +272,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :o: |
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :o: |
-| Valid Anagram | https://leetcode.com/problems/valid-anagram | :o: |
+| Valid Anagram | https://leetcode.com/problems/valid-anagram | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :o: |
