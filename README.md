@@ -121,7 +121,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Product of Array Except Self | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/827/ | :white_check_mark: |
 | Spiral Matrix | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/ | :o: |
 | 4Sum II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/ | :white_check_mark: |
-| Container with most water | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/ | :o: |
+| Container with most water | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/ | :white_check_mark: EASY TO IMPLEMENT, HARD TO THINK|
 | Game of life | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/ | :o: |
 | First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/833/ | :o: |
