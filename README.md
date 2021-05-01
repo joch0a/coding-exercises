@@ -123,7 +123,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | 4Sum II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/829/ | :white_check_mark: |
 | Container with most water | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/830/ | :white_check_mark: EASY TO IMPLEMENT, HARD TO THINK|
 | Game of life | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/831/ | :white_check_mark: |
-| First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :o: |
+| First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :white_check_mark: Review https://www.youtube.com/watch?v=9SnkdYXNIzM&ab_channel=MichaelMuinos  |
 | Longest Consecutive Sequence | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/833/ | :o: |
 | Find the Duplicate Number | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/ | :o: |
 
