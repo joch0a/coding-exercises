@@ -126,6 +126,11 @@ The idea of this repository is to walk through the most common exercises of the 
 | First missing positive | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/832/ | :white_check_mark: Review https://www.youtube.com/watch?v=9SnkdYXNIzM&ab_channel=MichaelMuinos  |
 | Longest Consecutive Sequence | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/833/ | :white_check_mark: |
 | Find the Duplicate Number | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/ | :white_check_mark: |
+| Basic Calculator II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/836/ | :o: |
+| Sliding Window Maximum :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/837/ | :white_check_mark: |
+| Minimum Window Substring | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/838/ | :o: |
+
+
 
 # Test skills 
 
