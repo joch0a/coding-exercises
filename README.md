@@ -128,7 +128,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Find the Duplicate Number | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/ | :white_check_mark: |
 | Basic Calculator II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/836/ | :o: |
 | Sliding Window Maximum :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/837/ | :white_check_mark: |
-| Minimum Window Substring | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/838/ | :o: |
+| Minimum Window Substring | https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/838/ | :white_check_mark: |
 
 
 
