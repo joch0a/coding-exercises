@@ -132,7 +132,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Merge k Sorted Lists | https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/839/ | :white_check_mark: Revisit last approach |
 | Sort List | https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/840/ | :o: |
 | Copy list with random pointer | https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/841/ | :o: |
-
+| WorldLadder :bangbang: Double BFS & string encoding | https://leetcode.com/problems/word-ladder | :white_check_mark: |
 
 
 
