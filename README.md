@@ -133,8 +133,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Sort List | https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/840/ | :o: |
 | Copy list with random pointer | https://leetcode.com/explore/interview/card/top-interview-questions-hard/117/linked-list/841/ | :o: |
 | Word Ladder :bangbang: Double BFS & string encoding | https://leetcode.com/problems/word-ladder | :white_check_mark: |
-
-
+| Binary Tree Maximum Path Sum | https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/845/ | :white_check_mark: |
 
 # Test skills 
 
