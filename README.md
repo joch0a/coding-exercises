@@ -174,7 +174,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 46/287  15.33%
+## Actual state 46/287  16.02%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -441,7 +441,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Combinations | https://leetcode.com/problems/combinations | :o: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :o: |
-| Task Scheduler | https://leetcode.com/problems/task-scheduler | :o: |
+| Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :o: |
 | Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :o: |
 | Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :o: |
