@@ -174,7 +174,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 46/287  16.02%
+## Actual state 47/287  16.37%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -343,7 +343,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :o: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: |
-| Rotate Array | https://leetcode.com/problems/rotate-array | :o: |
+| Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
 | K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
