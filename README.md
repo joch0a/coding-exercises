@@ -137,6 +137,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Number of provinces | https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/846/ | :white_check_mark: Review UNION-FIND |
 | Course Schelude | https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/847/ | :white_check_mark: |
 | Course Schelude II | https://leetcode.com/explore/interview/card/top-interview-questions-hard/118/trees-and-graphs/848/ | :white_check_mark: |
+| Critical Connections in a Network :bangbang: :bangbang: :bangbang:  | https://leetcode.com/problems/critical-connections-in-a-network/ | :white_check_mark: TARJAN'S ALGO |
 
 # Test skills 
 
