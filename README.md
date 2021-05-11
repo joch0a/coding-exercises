@@ -176,7 +176,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 47/287  16.37%
+## Actual state 48/287  16.72%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -398,7 +398,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
 | Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
 | Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
-| Most Common Word | https://leetcode.com/problems/most-common-word | :o: |
+| Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :o: |
 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :o: |
