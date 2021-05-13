@@ -176,7 +176,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 49/287  17.07%
+## Actual state 50/287  17.42%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -420,7 +420,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :o: |
 | Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
 | Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
-| Course Schedule | https://leetcode.com/problems/course-schedule | :o: |
+| Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
