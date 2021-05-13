@@ -176,7 +176,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 48/287  16.72%
+## Actual state 49/287  17.07%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
@@ -462,7 +462,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Binary | https://leetcode.com/problems/add-binary | :o: |
 | Subsets | https://leetcode.com/problems/subsets | :o: |
 | Path Sum | https://leetcode.com/problems/path-sum | :o: |
-| Majority Element | https://leetcode.com/problems/majority-element | :o: |
+| Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
 | Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :o: |
 | House Robber | https://leetcode.com/problems/house-robber | :o: |
 | Unique Email Addresses | https://leetcode.com/problems/unique-email-addresses | :o: |
