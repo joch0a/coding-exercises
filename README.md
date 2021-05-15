@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 50/287  17.42%
+## Actual state 51/287  17.42%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :o: |
@@ -215,7 +215,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse String II | https://leetcode.com/oroblems/reverse-string-ii | :o: |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :o: |
 | Sqrt| https://leetcode.com/problems/sqrtx | :o: |
-| Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :o: |
+| Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :white_check_mark: |
 | Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :o: |
 | Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :o: |
 | Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :o: |
