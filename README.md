@@ -158,6 +158,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Score After Splitting a String :bangbang: | https://leetcode.com/problems/maximum-score-after-splitting-a-string/ | :white_check_mark: |
 | Find Common Characters | https://leetcode.com/problems/find-common-characters/ | :white_check_mark: |
 | Split a String in Balanced Strings | https://leetcode.com/problems/split-a-string-in-balanced-strings/submissions/ | :white_check_mark: |
+| Shuffle | https://leetcode.com/problems/shuffle-the-array/ | :white_check_mark: |
+
+
 
 ## Medium
 
