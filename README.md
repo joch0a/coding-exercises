@@ -182,266 +182,217 @@ The following exercises were randomly picked it from LC to test what I've learnt
 ## Actual state 50/287  17.42%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
+| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :o: |
+| Unique Email Addresses | https://leetcode.com/problems/unique-email-addresses | :o: |
+| Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :o: |
+| Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
+| Path Sum | https://leetcode.com/problems/path-sum | :o: |
+| Add Binary | https://leetcode.com/problems/add-binary | :o: |
+| Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :o: |
+| Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :o: |
+| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :o: |
+| Plus One | https://leetcode.com/problems/plus-one | :o: |
+| Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :o: |
+| Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :o: |
+| Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :o: |
+| Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :o: |
+| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :o: |
+| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :o: |
+| Word Pattern | https://leetcode.com/problems/word-pattern | :o: |
+| Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :o: |
+| Rotate String | https://leetcode.com/problems/rotate-string | :o: |
+| Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
+| Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
+| Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
+| Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
+| First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
+| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :o: |
+| Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :o: |
+| Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
+| Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
+| Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
+| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
+| Reverse String II | https://leetcode.com/oroblems/reverse-string-ii | :o: |
+| Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :o: |
+| Sqrt| https://leetcode.com/problems/sqrtx | :o: |
+| Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :o: |
+| Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :o: |
+| Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :o: |
+| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :o: |
+| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :o: |
+| Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :o: |
+| Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :o: |
+| Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
+| Smallest Range | https://leetcode.com/problems/smallest-range-i/ | :o: |
+| Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :o: |
+| Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :o: |
+| Implement strStr| https://leetcode.com/problems/implement-strstr | :o: |
+| Reverse Integer | https://leetcode.com/problems/reverse-integer | :o: |
+| Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :o: |
+| Min Stack | https://leetcode.com/problems/min-stack | :o: |
+| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :o: |
+| Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree | :o: |
+| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :o: |
+| Valid Anagram | https://leetcode.com/problems/valid-anagram | :white_check_mark: |
+| Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :o: |
+| Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :o: |
+| Add Strings | https://leetcode.com/problems/add-strings | :o: |
+| Count Primes | https://leetcode.com/problems/count-primes | :o: |
+| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :o: |
+| Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :o: |
+| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
+| Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
+| Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |
+| Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :white_check_mark: |
+| Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :white_check_mark: |
+| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
+| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
+| Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
+| Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
+| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
+| Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
+| Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
+| Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
+| Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: NEED TO STUDY MORE STACKS |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: |
-| Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
-| (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | X |
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
 | (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
-| Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
-| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | X | 
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: |
-| Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | String Compression | https://leetcode.com/problems/string-compression | :white_check_mark: |
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :o: |
-| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
-| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
 | Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
-| Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
 | String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :o: |
-| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :X: |
-| Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
-| Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
-| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
-| (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
-| Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
-| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
 | Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: Review follow-up question |
 | Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :white_check_mark: |
-| Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
-| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
 | Word Search | https://leetcode.com/problems/word-search | :white_check_mark: |
-| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :X: |
-| Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
-| Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
-| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
-| Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
-| Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
-| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
-| Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :white_check_mark: |
-| Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
-| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :X: |
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
-| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :o: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
-| Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :white_check_mark: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :o: |
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
-| Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
 | Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :white_check_mark: |
 | Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
-| Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
 | Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
-| Implement Trie | https://leetcode.comPrefix Tree | :o: | | https://leetcode.com/oroblems/implement-trie-prefix-tree | :o: |
+| Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :o: |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :o: |
-| Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
-| Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
-| Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
-| Basic Calculator || | https://leetcode.com/problems/basic-calculator-ii | :o: |
+| Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :o: |
 | 3Sum | https://leetcode.com/problems/3sum | :o: |
-| Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :o: |
-| Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :o: |
 | Rotate List | https://leetcode.com/problems/rotate-list | :o: |
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :o: |
-| Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: | i
-| Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: | =f
-| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | =f
-| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :o: |
-| 24 Game | https://leetcode.com/problems/24-game | :o: |
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :o: |
-| Count Primes | https://leetcode.com/problems/count-primes | :o: |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :o: |
-| Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :o: |
-| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
-| Ractnra IP Addracecac | https://leetcode.cominrnhlame/ractnara—in_
+| Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :o: |
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :o: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :o: |
-| Add Strings | https://leetcode.com/problems/add-strings | :o: |
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :o: |
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :o: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
 | Gas Station | https://leetcode.com/problems/gas-station | :o: |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
-| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
-| Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :o: |
-| Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :o: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :o: |
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
-| The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :o: |
-| Valid Anagram | https://leetcode.com/problems/valid-anagram | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :o: |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
-| LFU Cache | https://leetcode.com/problems/Ifu-cache | :o: |
-| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :o: |
-| Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
+| LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :o: |
-| Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree | :o: |
-| Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
-| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :o: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :o: |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :o: |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :o: |
-| Min Stack | https://leetcode.com/problems/min-stack | :o: |
-| The Maze | https://leetcode.com/problems/the-maze | :X: |
-| Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :o: |
-| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :o: |
-| Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :o: |
 | Rectangle Area | https://leetcode.com/problems/rectangle-area | :o: |
 | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :o: |
-| Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :o: | 
-| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :o: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :o: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :o: |
-| Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :o: |
 | Word Break | https://leetcode.com/problems/word-break | :o: |
-| Reverse Integer | https://leetcode.com/problems/reverse-integer | :o: |
-| Implement strStr| https://leetcode.com | :o: | | https://leetcode.com/problems/implement-strstr | :o: |
 | Decode String | https://leetcode.com/problems/decode-string | :o: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :o: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :o: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :o: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
-| Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :o: |
-| Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree | :o: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :o: |
-| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :o: | af?
 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii | :o: |
-| Word Break || | https://leetcode.com/problems/word-break-ii | :o: |
-| Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
 | Partition List | https://leetcode.com/problems/partition-list | :o: |
-| Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :o: |
 | Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes | :o: |
 | Game of Life | https://leetcode.com/problems/game-of-life | :o: |
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :o: |
 | Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :o: |
-| Smallest Range | https://leetcode.com/problems/smallest-range | :o: |
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :o: |
-| Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
-| Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :o: | =f
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :o: |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :o: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
-| Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
-| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :o: |
 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii | :o: |
 | Find All Duplicates in an Array | https://leetcode.com/problems/find-all-duplicates-in-an-array | :o: |
-| Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :o: |
-| Word Ladder Il | https://leetcode.com/problems/word-ladder-ii | :o: |
-| Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :o: |
 | Permutations | https://leetcode.com/problems/permutations | :white_check_mark: |
 | Jump Game | https://leetcode.com/problems/jump-game | :o: |
-| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :o: |
-| My Calendar | | https://leetcode.com/problems/my-calendar-i | :o: |
-| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
-| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :o: |
-| Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-cyclic-sorted-list | :o: |
+| My Calendar | https://leetcode.com/problems/my-calendar-i | :o: |
 | Remove Duplicate Letters | https://leetcode.com/problems/remove-duplicate-letters | :o: |
-| N-Queens | https://leetcode.com/problems/n-queens | :o: |
 | Spiral Matrix || | https://leetcode.com/problems/spiral-matrix-ii | :o: |
-| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
 | Combination Sum | https://leetcode.com/problems/combination-sum | :o: |
 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii | :o: |
 | Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix | :o: |
 | Valid Triangle Number | https://leetcode.com/problems/valid-triangle-number | :o: |
-| Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :o: |
-| Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
-| Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :o: |
-| First Missing Positive | https://leetcode.com/problems/first-missing-positive | :o: |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree | :o: |
-| Two Sum Il - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :o: |
 | Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst | :o: |
-| Pow| https://leetcode.comx, n | :o: | | https://leetcode.com/problems/powx-n | :o: |
+| Pow| https://leetcode.com/problems/powx-n | :o: |
 | Max Area of Island | https://leetcode.com/problems/max-area-of-island | :o: |
 | Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :o: |
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :o: |
-| Sqrt| https://leetcode.comx | :o: | | https://leetcode.com/problems/sqrtx | :o: |
-| Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :o: |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :o: |
-| One Edit Distance | https://leetcode.com/problems/one-edit-distance | :o: |
-| Reverse String II | https://leetcode.com/oroblems/reverse-string-ii | :o: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :o: |
 | Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: |
-| Search in Rotated Sorted Array II | https://leetcode.com/oroblems/search-in-rotated-sorted-array-ii | :o: |
+| Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :o: |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
 | Range Sum Query 2D - Immutable | https://leetcode.com/problems/range-sum-query-2d-immutable | :o: |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :o: |
-| Text Justification | https://leetcode.com/problems/text-justification | :o: |
-| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
-| Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
-| Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
-| Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :o: |
-| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :o: |
-| Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
-| Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
-| Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
 | Design Linked List | https://leetcode.com/problems/design-linked-list | :o: |
 | Combination Sum II | https://leetcode.com/problems/combination-sum-ii | :o: |
-| Combination Sum Ill | https://leetcode.com/problems/combination-sum-iii | :o: |
-| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
-| Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :o: |
+| Combination Sum III | https://leetcode.com/problems/combination-sum-iii | :o: |
 | Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements | :o: |
 | Is Graph Bipartite? | https://leetcode.com/problems/is-graph-bipartite | :o: |
-| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :o: |
-| Friend Circles | https://leetcode.com/problems/friend-circles | :o: |
+| Friend Circles | https://leetcode.com/problems/friend-circles | :o:|
 | Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarray | :o: |
 | Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array | :o: |
-| First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :o: |
-| Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
-| Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
-| Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
-| Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
 | Maximal Square | https://leetcode.com/problems/maximal-square | :o: |
-| Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
-| Rotate String | https://leetcode.com/problems/rotate-string | :o: |
-| Valid Number | https://leetcode.com/problems/valid-number | :o: |
-| Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :o: |
-| Word Pattern | https://leetcode.com/problems/word-pattern | :o: |
 | Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :o: |
-| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :o: |
 | Insert Interval | https://leetcode.com/problems/insert-interval | :o: |
-| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :o: |
-| Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :o: |
 | Triangle | https://leetcode.com/problems/triangle | :o: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
-| Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :o: |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
 | Combinations | https://leetcode.com/problems/combinations | :o: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
@@ -449,24 +400,73 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :o: |
 | Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :o: |
-| Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :o: |
-| Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :o: |
-| Binary Tree Level Order Traversal II 
+| Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :o: |
 | 4Sum | https://leetcode.com/problems/4sum | :o: |
 | Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :o: |
-| Plus One | https://leetcode.com/problems/plus-one | :o: |
-| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :o: |
 | 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
 | Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
-| Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :o: |
-| Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :o: |
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :o: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :o: |
-| Add Binary | https://leetcode.com/problems/add-binary | :o: |
 | Subsets | https://leetcode.com/problems/subsets | :o: |
-| Path Sum | https://leetcode.com/problems/path-sum | :o: |
-| Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
-| Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :o: |
 | House Robber | https://leetcode.com/problems/house-robber | :o: |
-| Unique Email Addresses | https://leetcode.com/problems/unique-email-addresses | :o: |
-| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :o: |
+| Valid Number | https://leetcode.com/problems/valid-number | :o: |
+| Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
+| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
+| Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
+| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :o: |
+| Text Justification | https://leetcode.com/problems/text-justification | :o: |
+| First Missing Positive | https://leetcode.com/problems/first-missing-positive | :o: |
+| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
+| N-Queens | https://leetcode.com/problems/n-queens | :o: |
+| Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
+| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
+| Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
+| Word Break | https://leetcode.com/problems/word-break-ii | :o: |
+| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
+| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :o: |
+| The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :o: |
+| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
+| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
+| Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :o: |
+| 24 Game | https://leetcode.com/problems/24-game | :o: |
+| Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
+| Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
+| Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
+| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :o: |
+| Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
+| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
+| Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
+| Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
+| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
+| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
+| Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
+| (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
+| Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
+| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
+| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
+| Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
+| Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
+| Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
+| One Edit Distance | https://leetcode.com/problems/one-edit-distance | :o: |
+| Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
+| Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
+| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
+| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
+| Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :o: |
+| Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
+| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :o: | af?
+| Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree | :o: |
+| Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :o: |
+| Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :o: | 
+| Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
+| The Maze | https://leetcode.com/problems/the-maze | :X: |
+| Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
+| Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
+| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | =f
+| Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
+| Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: | i
+| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :X: |
+| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :X: |
+| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :X: |
+| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | X | 
+| (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | X |
