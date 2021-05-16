@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 58/287  20.20%
+## Actual state 59/287  20.20%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -190,7 +190,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark:: |
 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :white_check_mark: |
 | Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :white_check_mark: |
-| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :o: |
+| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review |
 | Plus One | https://leetcode.com/problems/plus-one | :o: |
 | Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :o: |
 | Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :o: |
