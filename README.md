@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 60/287  20.20%
+## Actual state 66/287  22.99%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -187,17 +187,17 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :white_check_mark: |
 | Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
 | Path Sum | https://leetcode.com/problems/path-sum | :white_check_mark: |
-| Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark:: |
+| Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark: |
 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :white_check_mark: |
 | Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :white_check_mark: |
 | Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review |
 | Plus One | https://leetcode.com/problems/plus-one | :white_check_mark: |
-| Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :o: |
-| Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :o: |
-| Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :o: |
-| Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :o: |
-| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :o: |
-| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :o: |
+| Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :white_check_mark: |
+| Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :white_check_mark: |
+| Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :white_check_mark: |
+| Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :white_check_mark: |
+| Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :white_check_mark: |
+| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: |
 | Word Pattern | https://leetcode.com/problems/word-pattern | :o: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :o: |
 | Rotate String | https://leetcode.com/problems/rotate-string | :o: |
