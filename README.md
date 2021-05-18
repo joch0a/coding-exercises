@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 66/287  22.99%
+## Actual state 68/287  23.69%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -198,8 +198,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :white_check_mark: |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :white_check_mark: |
 | Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it|
-| Word Pattern | https://leetcode.com/problems/word-pattern | :o: |
-| Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :o: |
+| Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
+| Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
 | Rotate String | https://leetcode.com/problems/rotate-string | :o: |
 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
