@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 68/287  23.69%
+## Actual state 71/287  24.73%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -201,13 +201,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
 | Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP ALGORITHM |
-| Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
-| Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
+| Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :white_check_mark: |
+| Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :white_check_mark: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
 | Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
 | First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :o: |
-| Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :o: |
+| Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :white_check_mark: QUICKSELECT |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
