@@ -200,7 +200,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it|
 | Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
-| Rotate String | https://leetcode.com/problems/rotate-string | :o: |
+| Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP ALGORITHM |
 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :o: |
 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :o: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
