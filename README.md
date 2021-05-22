@@ -210,7 +210,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :white_check_mark: QUICKSELECT |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
-| Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :o: |
+| Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
 | Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
 | Reverse String II | https://leetcode.com/oroblems/reverse-string-ii | :o: |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :o: |
