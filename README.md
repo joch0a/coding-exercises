@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 82/287  28.57%
+## Actual state 85/287  29.61%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -224,9 +224,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :white_check_mark: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
 | Smallest Range | https://leetcode.com/problems/smallest-range-i/ | :white_check_mark: |
-| Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :o: |
-| Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :o: |
-| Implement strStr| https://leetcode.com/problems/implement-strstr | :o: |
+| Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :white_check_mark: |
+| Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :white_check_mark: |
+| Implement strStr| https://leetcode.com/problems/implement-strstr | :white_check_mark: |
 | Reverse Integer | https://leetcode.com/problems/reverse-integer | :o: |
 | Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :o: |
 | Min Stack | https://leetcode.com/problems/min-stack | :o: |
