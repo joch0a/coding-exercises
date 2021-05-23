@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 72/287  25.08%
+## Actual state 82/287  28.57%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -212,18 +212,18 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
 | Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
-| Reverse String II | https://leetcode.com/oroblems/reverse-string-ii | :o: |
-| Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :o: |
-| Sqrt| https://leetcode.com/problems/sqrtx | :o: |
+| Reverse String II | https://leetcode.com/problems/reverse-string-ii | :white_check_mark: |
+| Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :white_check_mark: |
+| Sqrt| https://leetcode.com/problems/sqrtx | :white_check_mark: annoying using long... |
 | Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :white_check_mark: |
-| Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :o: |
-| Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :o: |
-| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :o: |
-| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :o: |
-| Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :o: |
-| Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :o: |
+| Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :white_check_mark: Review iterative |
+| Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :white_check_mark: Review other solutions... weird problem |
+| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :white_check_mark: Before reviewing it, study bit manipulation |
+| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :white_check_mark: review |
+| Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :white_check_mark: |
+| Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :white_check_mark: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
-| Smallest Range | https://leetcode.com/problems/smallest-range-i/ | :o: |
+| Smallest Range | https://leetcode.com/problems/smallest-range-i/ | :white_check_mark: |
 | Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :o: |
 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :o: |
 | Implement strStr| https://leetcode.com/problems/implement-strstr | :o: |

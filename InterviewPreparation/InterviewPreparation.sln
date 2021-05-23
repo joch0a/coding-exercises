@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B27C23D-13A9-4E87-8976-F5DD67526320}"
 	ProjectSection(SolutionItems) = preProject
 		..\README.md = ..\README.md
+		ReverseString2.cs = ReverseString2.cs
 	EndProjectSection
 EndProject
 Global
