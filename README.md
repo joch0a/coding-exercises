@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 95/287  33.01%
+## Actual state 98/287  34.14%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -237,9 +237,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :white_check_mark: |
 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :white_check_mark: |
 | Add Strings | https://leetcode.com/problems/add-strings | :white_check_mark: |
-| Count Primes | https://leetcode.com/problems/count-primes | :o: |
-| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :o: |
-| Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :o: |
+| Count Primes | https://leetcode.com/problems/count-primes | :white_check_mark: |
+| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :white_check_mark: easy but tricky |
+| Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :white_check_mark: |
 | Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
 | Reverse String | https://leetcode.com/problems/reverse-string | :white_check_mark: |
