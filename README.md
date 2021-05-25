@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 85/287  29.61%
+## Actual state 95/287  33.01%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -208,7 +208,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
 | Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :o: |
 | Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :white_check_mark: QUICKSELECT |
-| Summary Ranges | https://leetcode.com/problems/summary-ranges | :o: |
+| Summary Ranges | https://leetcode.com/problems/summary-ranges | :white_check_mark: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
 | Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
@@ -227,16 +227,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Second Minimum Node In a Binary Tree | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree | :white_check_mark: |
 | Delete Node in a Linked List | https://leetcode.com/problems/delete-node-in-a-linked-list | :white_check_mark: |
 | Implement strStr| https://leetcode.com/problems/implement-strstr | :white_check_mark: |
-| Reverse Integer | https://leetcode.com/problems/reverse-integer | :o: |
-| Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :o: |
-| Min Stack | https://leetcode.com/problems/min-stack | :o: |
-| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :o: |
-| Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree | :o: |
-| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :o: |
+| Reverse Integer | https://leetcode.com/problems/reverse-integer | :white_check_mark: |
+| Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :white_check_mark: |
+| Min Stack | https://leetcode.com/problems/min-stack | :white_check_mark: review (Just a little) |
+| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :white_check_mark: review (Just a little)|
+| Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree | :white_check_mark: |
+| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :white_check_mark: magic math formula... boring |
 | Valid Anagram | https://leetcode.com/problems/valid-anagram | :white_check_mark: |
-| Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :o: |
-| Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :o: |
-| Add Strings | https://leetcode.com/problems/add-strings | :o: |
+| Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :white_check_mark: |
+| Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :white_check_mark: |
+| Add Strings | https://leetcode.com/problems/add-strings | :white_check_mark: |
 | Count Primes | https://leetcode.com/problems/count-primes | :o: |
 | Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :o: |
 | Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :o: |
