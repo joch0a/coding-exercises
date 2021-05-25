@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 98/287  34.14%
+## Actual state 100/286  34.96%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -204,9 +204,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :white_check_mark: |
 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :white_check_mark: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
-| Second Highest Salary | https://leetcode.com/problems/second-highest-salary | :o: |
 | First Unique Character in a String | https://leetcode.com/problems/first-unique-character-in-a-string | :white_check_mark: |
-| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :o: |
+| Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii | :white_check_mark: |
 | Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :white_check_mark: QUICKSELECT |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :white_check_mark: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
@@ -247,7 +246,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :white_check_mark: |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
-| Design HashMap | https://leetcode.com/problems/design-hashmap | :o: |
+| Design HashMap | https://leetcode.com/problems/design-hashmap | :white_check_mark: |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
