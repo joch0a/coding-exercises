@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 100/286  34.96%
+## Actual state 101/286  34.96%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -258,7 +258,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: NEED TO STUDY MORE STACKS |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: |
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
-| (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
+| (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: |
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
