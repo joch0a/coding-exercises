@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 101/286  34.96%
+## Actual state 104/286  36.36%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -264,7 +264,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: |
 | String Compression | https://leetcode.com/problems/string-compression | :white_check_mark: |
-| Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :o: |
+| Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :white_check_mark: |
 | Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
 | String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :o: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
@@ -276,14 +276,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
 | Word Search | https://leetcode.com/problems/word-search | :white_check_mark: |
 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
-| Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :o: |
+| Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :white_check_mark: |
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
-| Minesweeper | https://leetcode.com/problems/minesweeper | :o: |
+| Minesweeper | https://leetcode.com/problems/minesweeper | :white_check_mark: |
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
