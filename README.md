@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 101/286  34.96%
+## Actual state 102/286  35.66%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -266,7 +266,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | String Compression | https://leetcode.com/problems/string-compression | :white_check_mark: |
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :o: |
 | Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
-| String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :o: |
+| String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :white_check_mark: |
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
