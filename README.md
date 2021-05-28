@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 105/286  36.36%
+## Actual state 108/286  37.37%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -288,10 +288,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
 | Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :white_check_mark: |
-| Multiply Strings | https://leetcode.com/problems/multiply-strings | :o: |
+| Multiply Strings | https://leetcode.com/problems/multiply-strings | :white_check_mark: DO IT AGAIN |
 | Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
-| Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :o: |
-| Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :o: |
+| Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :white_check_mark: DO IT AGAIN |
+| Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: DO IT AGAIN |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :o: |
 | 3Sum | https://leetcode.com/problems/3sum | :o: |
