@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 108/286  37.37%
+## Actual state 113/286  39.51%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -293,11 +293,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :white_check_mark: DO IT AGAIN |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: DO IT AGAIN |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
-| Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :o: |
-| 3Sum | https://leetcode.com/problems/3sum | :o: |
-| Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :o: |
-| Rotate List | https://leetcode.com/problems/rotate-list | :o: |
-| Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :o: |
+| Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :white_check_mark: |
+| 3Sum | https://leetcode.com/problems/3sum | :white_check_mark: review |
+| Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: review |
+| Rotate List | https://leetcode.com/problems/rotate-list | :white_check_mark: |
+| Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :o: |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :o: |
 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :o: |
