@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 115/286  40.2%
+## Actual state 116/286  40.2%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -299,11 +299,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Rotate List | https://leetcode.com/problems/rotate-list | :white_check_mark: |
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :o: |
-| Merge Intervals | https://leetcode.com/problems/merge-intervals | :o: |
+| Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :o: |
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
-| Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :o: |
-| Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :o: |
+| Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
+| Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :o: |
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :o: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
