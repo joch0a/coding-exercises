@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 116/286  40.2%
+## Actual state 118/286  41.25%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -279,7 +279,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :white_check_mark: |
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
-| Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :o: |
+| Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :white_check_mark: probably needs a review, kinda tricky |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
@@ -298,9 +298,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: review |
 | Rotate List | https://leetcode.com/problems/rotate-list | :white_check_mark: |
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
-| Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :o: |
+| Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: review |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
-| Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :o: |
+| Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: Great excercise |
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
