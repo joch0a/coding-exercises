@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 118/286  41.25%
+## Actual state 120/286  41.95%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -304,8 +304,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
-| Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :o: |
-| Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :o: |
+| Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :white_check_mark: MAYBE review the O(logN) low priority |
+| Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :white_check_mark: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
 | Gas Station | https://leetcode.com/problems/gas-station | :o: |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
