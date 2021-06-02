@@ -310,7 +310,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Gas Station | https://leetcode.com/problems/gas-station | :o: |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
-| Knight Dialer | https://leetcode.com/problems/knight-dialer | :o: |
+| Knight Dialer | https://leetcode.com/problems/knight-dialer | :exclamation_mark: TIME LIMIT|
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
