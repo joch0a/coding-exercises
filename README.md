@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 123/286  41.95%
+## Actual state 124/286  43.35%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -312,7 +312,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
-| Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
+| Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :o: |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
