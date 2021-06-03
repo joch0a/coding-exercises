@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 121/286  41.95%
+## Actual state 123/286  41.95%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -306,11 +306,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :white_check_mark: MAYBE review the O(logN) low priority |
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :white_check_mark: |
-| Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
+| Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :white_check_mark: |
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: ! |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
-| Knight Dialer | https://leetcode.com/problems/knight-dialer | :exclamation_mark: TIME LIMIT|
+| Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :o: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :o: |
