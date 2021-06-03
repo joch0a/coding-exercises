@@ -1,10 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using InterviewPreparation.Exercises;
+using System.Collections.Generic;
 
 namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
     class LevelOrder
     {
-        public IList<IList<int>> LevelOrder(TreeNode root)
+        public IList<IList<int>> Solve(TreeNode root)
         {
             if (root == null)
             {

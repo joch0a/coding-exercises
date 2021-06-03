@@ -1,4 +1,6 @@
-﻿namespace InterviewPreparation.MicrosoftExcercises.Easy
+﻿using InterviewPreparation.Exercises;
+
+namespace InterviewPreparation.MicrosoftExcercises.Easy
 {
     class PathSum
     {

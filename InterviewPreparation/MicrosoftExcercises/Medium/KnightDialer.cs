@@ -71,5 +71,62 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
 
             return result;
         }
+
+        ///
+        public int[][] jumps;
+
+        public int KnightDialerSolution(int n)
+        {
+            jumps = new int[][]
+            {
+            new int[] {4,6},
+            new int[] {6,8},
+            new int[] {7,9},
+            new int[] {4,8},
+            new int[] {3,9,0},
+            new int[] {},
+            new int[] {1,7,0},
+            new int[] {2,6},
+            new int[] {1,3},
+            new int[] {4,2}
+            };
+
+            var dp = new int[2, 10];
+
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    if (i == 0)
+                    {
+                        dp[1, j] = 1;
+
+                        continue;
+                    }
+
+                    foreach (var jump in jumps[j])
+                    {
+                        dp[1, j] += dp[0, jump];
+                        dp[1, j] = dp[1, j] % Module;
+                    }
+                }
+
+                for (int j = 0; j < 10; j++)
+                {
+                    dp[0, j] = dp[1, j];
+                    dp[1, j] = 0;
+                }
+            }
+
+            var sum = 0;
+
+            for (int i = 0; i < 10; i++)
+            {
+                sum += dp[0, i];
+                sum = sum % Module;
+            }
+
+            return sum;
+        }
     }
 }
