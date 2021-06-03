@@ -307,7 +307,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :white_check_mark: MAYBE review the O(logN) low priority |
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :white_check_mark: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :o: |
-| Gas Station | https://leetcode.com/problems/gas-station | :o: |
+| Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: ! |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :exclamation_mark: TIME LIMIT|
