@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 124/286  43.35%
+## Actual state 127/286  44.40%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -313,12 +313,12 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
-| Reorder List | https://leetcode.com/problems/reorder-list | :o: |
-| Shopping Offers | https://leetcode.com/problems/shopping-offers | :o: |
+| Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
+| Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: Good question + Lesson: 1 Get the recursion, 2 Try to Memo |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
 | LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :o: |
-| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :o: |
+| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: Lesson: Follow-up questions -> Ask again if the matrix should change |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :o: |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :o: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :o: |
