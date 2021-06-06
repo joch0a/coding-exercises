@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 130/286  45.45%
+## Actual state 132/286  46.15%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -321,10 +321,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: Lesson: Follow-up questions -> Ask again if the matrix should change |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
-| Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :o: |
+| Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
 | Rectangle Area | https://leetcode.com/problems/rectangle-area | :o: |
 | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :o: |
-| Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :o: |
+| Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :o: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :o: |
 | Word Break | https://leetcode.com/problems/word-break | :o: |
