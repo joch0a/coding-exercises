@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 134/286  46.85%
+## Actual state 135/286  46.85%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -326,7 +326,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :o: |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
-| Container With Most Water | https://leetcode.com/problems/container-with-most-water | :o: |
+| Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
 | Word Break | https://leetcode.com/problems/word-break | :white_check_mark: REVIEW |
 | Decode String | https://leetcode.com/problems/decode-string | :o: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :o: |
