@@ -331,7 +331,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Decode String | https://leetcode.com/problems/decode-string | :o: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :o: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :o: |
-| Decode Ways | https://leetcode.com/problems/decode-ways | :o: |
+| Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :o: |
 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii | :o: |
