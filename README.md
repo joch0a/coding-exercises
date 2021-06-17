@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 135/286  46.85%
+## Actual state 136/286  46.85%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -333,7 +333,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Count and Say | https://leetcode.com/problems/count-and-say | :o: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
-| Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :o: |
+| Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
 | Next Greater Element II | https://leetcode.com/problems/next-greater-element-ii | :o: |
 | Partition List | https://leetcode.com/problems/partition-list | :o: |
 | Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes | :o: |
