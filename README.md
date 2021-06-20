@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 140/286  47.90%
+## Actual state 143/286  50%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -338,9 +338,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Partition List | https://leetcode.com/problems/partition-list | :white_check_mark: |
 | Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes | :white_check_mark: Review it |
 | Game of Life | https://leetcode.com/problems/game-of-life | :white_check_mark: |
-| Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :o: |
-| Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :o: |
-| Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :o: |
+| Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :white_check_mark: |
+| Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :white_check_mark: |
+| Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :o: |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :o: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
