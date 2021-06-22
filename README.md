@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 144/286  50%
+## Actual state 147/286  51.39%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -346,9 +346,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: INSTRUCTIVE, WEIRD, REVIEW |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
-| Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
-| Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :o: |
-| Course Schedule II | https://leetcode.com/problems/course-schedule-ii | :o: |
+| Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :white_check_mark: |
+| Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :white_check_mark: Shitty one :), cool random |
+| Course Schedule II | https://leetcode.com/problems/course-schedule-ii | :white_check_mark: Always review this kind of ex |
 | Find All Duplicates in an Array | https://leetcode.com/problems/find-all-duplicates-in-an-array | :o: |
 | Permutations | https://leetcode.com/problems/permutations | :white_check_mark: |
 | Jump Game | https://leetcode.com/problems/jump-game | :o: |
