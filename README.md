@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 143/286  50%
+## Actual state 144/286  50%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -341,10 +341,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :white_check_mark: |
 | Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :white_check_mark: |
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
-| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :o: |
-| Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :o: |
+| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | TLE |
+| Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
-| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: INSTRUCTIVE, WEIRD, REVIEW |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :o: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :o: |
