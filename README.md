@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 158/286  54.19%
+## Actual state 161/286  56.29%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -361,10 +361,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid Triangle Number | https://leetcode.com/problems/valid-triangle-number | :white_check_mark: Cool exercise |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree | :white_check_mark: |
 | Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst | :white_check_mark: |
-| Pow| https://leetcode.com/problems/powx-n | :o: |
-| Max Area of Island | https://leetcode.com/problems/max-area-of-island | :o: |
+| Pow | https://leetcode.com/problems/powx-n | :white_check_mark: Meeeeeeeeeeeeeeeeeeeeeeeeeeeh |
+| Max Area of Island | https://leetcode.com/problems/max-area-of-island | :white_check_mark: |
 | Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :o: |
-| Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :o: |
+| Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :o: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :o: |
 | Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: |
