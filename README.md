@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 163/286  56.99%
+## Actual state 165/286  57.69%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -375,8 +375,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :o: |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :o: |
-| Design Linked List | https://leetcode.com/problems/design-linked-list | :o: |
-| Combination Sum II | https://leetcode.com/problems/combination-sum-ii | :o: |
+| Design Linked List | https://leetcode.com/problems/design-linked-list | :white_check_mark: |
+| Combination Sum II | https://leetcode.com/problems/combination-sum-ii | :white_check_mark: |
 | Combination Sum III | https://leetcode.com/problems/combination-sum-iii | :o: |
 | Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements | :o: |
 | Is Graph Bipartite? | https://leetcode.com/problems/is-graph-bipartite | :o: |
