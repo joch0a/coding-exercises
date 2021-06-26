@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 161/286  56.29%
+## Actual state 163/286  56.99%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -365,10 +365,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Max Area of Island | https://leetcode.com/problems/max-area-of-island | :white_check_mark: |
 | Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :o: |
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
-| Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :o: |
-| Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :o: |
-| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: |
-| Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :o: |
+| Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :white_check_mark: |
+| Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
+| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: DIJKTRA |
+| Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
 | Range Sum Query 2D - Immutable | https://leetcode.com/problems/range-sum-query-2d-immutable | :o: |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
