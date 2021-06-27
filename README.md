@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 165/286  57.69%
+## Actual state 166/286  57.69%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -370,7 +370,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: DIJKTRA |
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
-| Range Sum Query 2D - Immutable | https://leetcode.com/problems/range-sum-query-2d-immutable | :o: |
+| Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :o: |
