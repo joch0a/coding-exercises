@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 166/286  57.69%
+## Actual state 175/286  61.18%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -373,17 +373,17 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
-| Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :o: |
-| Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :o: |
+| Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :white_check_mark: REVIEW |
+| Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :white_check_mark: Weird... |
 | Design Linked List | https://leetcode.com/problems/design-linked-list | :white_check_mark: |
 | Combination Sum II | https://leetcode.com/problems/combination-sum-ii | :white_check_mark: |
-| Combination Sum III | https://leetcode.com/problems/combination-sum-iii | :o: |
-| Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements | :o: |
-| Is Graph Bipartite? | https://leetcode.com/problems/is-graph-bipartite | :o: |
-| Friend Circles | https://leetcode.com/problems/friend-circles | :o:|
-| Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarray | :o: |
-| Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array | :o: |
-| Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :o: |
+| Combination Sum III | https://leetcode.com/problems/combination-sum-iii | :white_check_mark: |
+| Find K Closest Elements | https://leetcode.com/problems/find-k-closest-elements | :white_check_mark: REVIEW |
+| Is Graph Bipartite? | https://leetcode.com/problems/is-graph-bipartite | :white_check_mark: |
+| Friend Circles | https://leetcode.com/problems/friend-circles | :white_check_mark:|
+| Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarray | :white_check_mark: REVIEW |
+| Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array | :white_check_mark: |
+| Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :white_check_mark: |
 | Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
