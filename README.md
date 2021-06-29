@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 175/286  61.18%
+## Actual state 182/286  63.63%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -395,17 +395,17 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
 | Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
-| Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :o: |
+| Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :white_check_mark: review binary search follow up |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
-| Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :o: |
-| Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :o: |
-| Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :o: |
+| Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :white_check_mark: |
+| Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :white_check_mark: |
+| Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :white_check_mark: |
 | 4Sum | https://leetcode.com/problems/4sum | :o: |
-| Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :o: |
+| Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
 | 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
 | Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :o: |
-| Unique Paths | https://leetcode.com/problems/unique-paths | :o: |
+| Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :o: |
 | House Robber | https://leetcode.com/problems/house-robber | :o: |
 | Valid Number | https://leetcode.com/problems/valid-number | :o: |
