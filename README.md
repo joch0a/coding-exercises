@@ -393,7 +393,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Triangle | https://leetcode.com/problems/triangle | :o: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
-| Combinations | https://leetcode.com/problems/combinations | :o: |
+| Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :o: |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
