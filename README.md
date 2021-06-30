@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 182/286  63.63%
+## Actual state 185/286  64.68%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -404,10 +404,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
 | 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
 | Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
-| Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :o: |
+| Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
-| Subsets | https://leetcode.com/problems/subsets | :o: |
-| House Robber | https://leetcode.com/problems/house-robber | :o: |
+| Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
+| House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
 | Valid Number | https://leetcode.com/problems/valid-number | :o: |
 | Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
