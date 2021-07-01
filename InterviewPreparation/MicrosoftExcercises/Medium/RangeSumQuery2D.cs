@@ -4,7 +4,7 @@
     {
         private int[,] prefixes;
 
-        public NumMatrix(int[][] matrix)
+        public void NumMatrix(int[][] matrix)
         {
             if (matrix.Length == 0 || matrix[0].Length == 0) return;
 
