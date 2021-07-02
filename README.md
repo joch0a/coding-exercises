@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 187/286  65.38%
+## Actual state 188/286  65.73%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -416,7 +416,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive | :o: |
 | Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
-| N-Queens | https://leetcode.com/problems/n-queens | :o: |
+| N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
