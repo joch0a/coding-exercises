@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
-    class MyPow
+    class SolveMyPow
     {
         public double MyPow(double x, int n)
         {
