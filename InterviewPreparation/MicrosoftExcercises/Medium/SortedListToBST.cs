@@ -5,7 +5,7 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
     class SolveSortedListToBST
     {
-        public TreeNode SortedListToBST(ListNode head)
+        public TreeNode Solve(ListNode head)
         {
             var list = new List<ListNode>();
 

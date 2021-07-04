@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 175/286  61.18%
+## Actual state 188/286  65.73%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -393,21 +393,21 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Triangle | https://leetcode.com/problems/triangle | :o: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
-| Combinations | https://leetcode.com/problems/combinations | :o: |
+| Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
-| Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :o: |
+| Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :white_check_mark: review binary search follow up |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
-| Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :o: |
-| Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :o: |
-| Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :o: |
+| Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :white_check_mark: |
+| Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :white_check_mark: |
+| Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :white_check_mark: |
 | 4Sum | https://leetcode.com/problems/4sum | :o: |
-| Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :o: |
+| Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
 | 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
 | Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
-| Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :o: |
-| Unique Paths | https://leetcode.com/problems/unique-paths | :o: |
-| Subsets | https://leetcode.com/problems/subsets | :o: |
-| House Robber | https://leetcode.com/problems/house-robber | :o: |
+| Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
+| Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
+| Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
+| House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
 | Valid Number | https://leetcode.com/problems/valid-number | :o: |
 | Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
@@ -416,14 +416,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive | :o: |
 | Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
-| N-Queens | https://leetcode.com/problems/n-queens | :o: |
+| N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
 | Word Break | https://leetcode.com/problems/word-break-ii | :o: |
 | Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
-| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :o: |
-| The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :o: |
+| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
+| The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :o: |
