@@ -433,7 +433,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
-| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
+| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
