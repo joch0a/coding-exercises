@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 189/286  66.08%
+## Actual state 190/286  66.43%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -409,7 +409,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
 | House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
 | Valid Number | https://leetcode.com/problems/valid-number | :o: |
-| Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
+| Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
 | Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :o: |
@@ -433,7 +433,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
-| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: Review, TLE |
+| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
