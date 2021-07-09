@@ -417,7 +417,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive | :white_check_mark: |
 | Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: check the cool optimization |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
-| Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
+| Word Ladder II | https://leetcode.com/problems/word-ladder-ii | TLE, review it |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
 | Word Break | https://leetcode.com/problems/word-break-ii | :o: |
