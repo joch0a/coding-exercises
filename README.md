@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 193/286  67.48%
+## Actual state 194/286  67.83%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -415,7 +415,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :white_check_mark: Try DP w/o looking the solution. Review stack |
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive | :white_check_mark: |
-| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
+| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: check the cool optimization |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
