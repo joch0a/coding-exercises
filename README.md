@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 195/286  68.18%
+## Actual state 196/286  68.53%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -424,7 +424,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
-| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
+| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :o: |
 | 24 Game | https://leetcode.com/problems/24-game | :o: |
