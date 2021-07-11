@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 196/286  68.53%
+## Actual state 197/286  68.81%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -421,7 +421,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
 | Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
-| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
+| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: REVIEW OPTIMIZATION  |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
