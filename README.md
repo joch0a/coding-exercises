@@ -408,7 +408,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
 | House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
-| Valid Number | https://leetcode.com/problems/valid-number | :o: |
+| Valid Number | https://leetcode.com/problems/valid-number | :o: if atoi was annoying, this is the king. On the future try to tackle again |
 | Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: easy memo :P |
 | Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
