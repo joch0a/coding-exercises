@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 198/286  69.23%
+## Actual state 201/286  70.27%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -418,8 +418,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: check the cool optimization |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | TLE, review it |
-| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
-| Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
+| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: REVIEW IT |
+| Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: INSTRUCTIVE |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
 | Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: REVIEW OPTIMIZATION  |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
@@ -432,7 +432,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
-| Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
+| Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: INSTRUCTIVE |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
