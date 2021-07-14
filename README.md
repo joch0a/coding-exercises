@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 201/286  70.27%
+## Actual state 202/286  70.62%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -436,7 +436,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
-| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
+| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
