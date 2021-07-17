@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 202/286  70.62%
+## Actual state 203/286  70.97%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
@@ -440,7 +440,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
-| Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
+| Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :white_check_mark: review binary search approach |
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
