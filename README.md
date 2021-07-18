@@ -441,7 +441,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :white_check_mark: review binary search approach |
-| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
+| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
