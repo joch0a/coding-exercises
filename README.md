@@ -113,7 +113,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Task Scheduler | https://leetcode.com/problems/task-scheduler/ | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | :white_check_mark: |
-
+| Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | :white_check_mark: Most DP follows this pattern |
 ## Hard
 
 | Name      | Resource link | Status |
