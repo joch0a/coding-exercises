@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 203/286  70.97%
+## Actual state 204/286  71.32%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -425,7 +425,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
-| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
+| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :white_check_mark: May be review the Explore function... in general good  |
 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :white_check_mark: Review it, very instructive! |
 | 24 Game | https://leetcode.com/problems/24-game | :o: |
 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
