@@ -182,7 +182,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 ## Actual state 203/286  70.97%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
-| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
+| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
 | Unique Email Addresses | https://leetcode.com/problems/unique-email-addresses | :white_check_mark: |
 | Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :white_check_mark: |
 | Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
@@ -190,7 +190,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark: |
 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :white_check_mark: |
 | Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :white_check_mark: |
-| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review |
+| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review, REVIEWED 1 time |
 | Plus One | https://leetcode.com/problems/plus-one | :white_check_mark: |
 | Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :white_check_mark: |
 | Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :white_check_mark: |
