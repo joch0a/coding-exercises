@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 204/286  71.32%
+## Actual state 205/286  71.32%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -387,7 +387,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
-| Maximal Square | https://leetcode.com/problems/maximal-square | :o: |
+| Maximal Square | https://leetcode.com/problems/maximal-square | :white_check_mark: instructive! |
 | Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :o: |
 | Insert Interval | https://leetcode.com/problems/insert-interval | :o: |
 | Triangle | https://leetcode.com/problems/triangle | :o: |
