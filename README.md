@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 206/286  72.02%
+## Actual state 210/286  73.42%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -329,7 +329,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
 | Word Break | https://leetcode.com/problems/word-break | :white_check_mark: REVIEW |
 | Decode String | https://leetcode.com/problems/decode-string | :o: |
-| Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :o: |
+| Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :o: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
@@ -372,7 +372,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
-| Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
+| Interleaving String | https://leetcode.com/problems/interleaving-string | :white_check_mark: MAY review tabulation |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :white_check_mark: REVIEW |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :white_check_mark: Weird... |
 | Design Linked List | https://leetcode.com/problems/design-linked-list | :white_check_mark: |
@@ -389,10 +389,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :white_check_mark: ALMOST aced. review it |
 | Maximal Square | https://leetcode.com/problems/maximal-square | :white_check_mark: instructive! |
 | Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :o: |
-| Insert Interval | https://leetcode.com/problems/insert-interval | :o: |
+| Insert Interval | https://leetcode.com/problems/insert-interval | :white_check_mark: review it, aced but kinda shitty hehe |
 | Triangle | https://leetcode.com/problems/triangle | :o: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
-| K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
+| K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :white_check_mark: |
 | Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
 | Sort List | https://leetcode.com/problems/sort-list | :o: |
 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :white_check_mark: review binary search follow up |
