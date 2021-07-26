@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 213/286  74.47%
+## Actual state 215/286  75.17%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -371,7 +371,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
-| Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
+| Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :white_check_mark: interesting |
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :white_check_mark: MAY review tabulation |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :white_check_mark: REVIEW |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :white_check_mark: Weird... |
@@ -402,7 +402,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :white_check_mark: |
 | 4Sum | https://leetcode.com/problems/4sum | :o: |
 | Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
-| 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
+| 3Sum Closest | https://leetcode.com/problems/3sum-closest | :white_check_mark: |
 | Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
