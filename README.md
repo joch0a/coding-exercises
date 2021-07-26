@@ -1,4 +1,4 @@
-# How to contribute?
+ # How to contribute?
 
 If you have some interesting and instructive exercise solved on C# feel free to raise a pull request with the solution and the link of the problem.
 
@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 211/286  73.77%
+## Actual state 213/286  74.47%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -328,9 +328,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
 | Word Break | https://leetcode.com/problems/word-break | :white_check_mark: REVIEW |
-| Decode String | https://leetcode.com/problems/decode-string | :o: |
+| Decode String | https://leetcode.com/problems/decode-string | :white_check_mark: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
-| Count and Say | https://leetcode.com/problems/count-and-say | :o: |
+| Count and Say | https://leetcode.com/problems/count-and-say | :white_check_mark: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
