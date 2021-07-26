@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 210/286  73.42%
+## Actual state 211/286  73.77%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -311,7 +311,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
-| Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
+| Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: Good question + Lesson: 1 Get the recursion, 2 Try to Memo |
