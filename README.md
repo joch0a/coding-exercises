@@ -197,7 +197,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :white_check_mark: |
 | Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :white_check_mark: |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :white_check_mark: |
-| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it|
+| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it, done |
 | Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
 | Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP ALGORITHM |
