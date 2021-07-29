@@ -210,7 +210,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :white_check_mark: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
-| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
+| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up, reviewed 1 time|
 | Reverse String II | https://leetcode.com/problems/reverse-string-ii | :white_check_mark: |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :white_check_mark: |
 | Sqrt| https://leetcode.com/problems/sqrtx | :white_check_mark: annoying using long... |
