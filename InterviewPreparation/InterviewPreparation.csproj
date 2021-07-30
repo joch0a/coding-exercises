@@ -9,4 +9,10 @@
     <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="MockInterviews\OnlineAssestment\" />
+    <Folder Include="MockInterviews\OnSite\" />
+    <Folder Include="MockInterviews\PhoneInterview\" />
+  </ItemGroup>
+
 </Project>
