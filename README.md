@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 222/286  77.62%
+## Actual state 225/286  78.63%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -322,7 +322,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
-| Rectangle Area | https://leetcode.com/problems/rectangle-area | :o: |
+| Rectangle Area | https://leetcode.com/problems/rectangle-area | :white_check_mark: |
 | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :white_check_mark: |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
@@ -400,10 +400,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :white_check_mark: |
 | Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :white_check_mark: |
 | Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :white_check_mark: |
-| 4Sum | https://leetcode.com/problems/4sum | :o: |
+| 4Sum | https://leetcode.com/problems/4sum | :white_check_mark: review N-SUM solution |
 | Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
 | 3Sum Closest | https://leetcode.com/problems/3sum-closest | :white_check_mark: |
-| Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
+| Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :white_check_mark: Needs review, NOT bit manipulation try to come up with the recusive and thats fine |
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
