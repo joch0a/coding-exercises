@@ -301,7 +301,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: review |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: Great excercise |
-| Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
+| Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :white_check_mark: weird... |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :white_check_mark: MAYBE review the O(logN) low priority |
@@ -309,14 +309,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :white_check_mark: |
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: ! |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
-| Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
+| Integer to Roman | https://leetcode.com/problems/integer-to-roman | :white_check_mark: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: Good question + Lesson: 1 Get the recursion, 2 Try to Memo |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
-| LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
+| LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: Lesson: Follow-up questions -> Ask again if the matrix should change |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
@@ -332,7 +332,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :white_check_mark: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
-| Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
+| Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :white_check_mark: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
 | Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: ULTRA INSTRUCTIVE|
 | Partition List | https://leetcode.com/problems/partition-list | :white_check_mark: |
@@ -343,8 +343,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | TLE |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
-| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
-| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: INSTRUCTIVE, WEIRD, REVIEW |
+| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: Is like another LCS but kinda weird the iteration |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :white_check_mark: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :white_check_mark: Shitty one :), cool random |
