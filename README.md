@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 215/286  75.17%
+## Actual state 216/286  75.52%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -323,7 +323,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
 | Rectangle Area | https://leetcode.com/problems/rectangle-area | :o: |
-| Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :o: |
+| Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :white_check_mark: |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
