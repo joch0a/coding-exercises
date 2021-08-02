@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 227/286  79.37%
+## Actual state 229/286  80.06%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -363,7 +363,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst | :white_check_mark: |
 | Pow | https://leetcode.com/problems/powx-n | :white_check_mark: Meeeeeeeeeeeeeeeeeeeeeeeeeeeh |
 | Max Area of Island | https://leetcode.com/problems/max-area-of-island | :white_check_mark: |
-| Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :o: |
+| Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :white_check_mark: |
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :white_check_mark: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
@@ -390,7 +390,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximal Square | https://leetcode.com/problems/maximal-square | :white_check_mark: instructive! |
 | Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :white_check_mark: |
 | Insert Interval | https://leetcode.com/problems/insert-interval | :white_check_mark: review it, aced but kinda shitty hehe |
-| Triangle | https://leetcode.com/problems/triangle | :o: |
+| Triangle | https://leetcode.com/problems/triangle | :white_check_mark: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :white_check_mark: |
 | Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
