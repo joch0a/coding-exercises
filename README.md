@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 226/286  79.02%
+## Actual state 227/286  79.37%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -394,7 +394,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :white_check_mark: |
 | Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
-| Sort List | https://leetcode.com/problems/sort-list | :o: |
+| Sort List | https://leetcode.com/problems/sort-list | :white_check_mark: |
 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :white_check_mark: review binary search follow up |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :white_check_mark: |
