@@ -461,7 +461,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | The Maze | https://leetcode.com/problems/the-maze | :X: |
 | Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
 | Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
-| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | =f
+| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | 
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: | i
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :X: |
