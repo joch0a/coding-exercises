@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 230/286  80.41%
+## Actual state 231/286  80.76%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -442,7 +442,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
-| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
+| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :white_check_mark: NEEDS REVIEW |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
