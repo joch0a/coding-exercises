@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 231/286  80.76%
+## Actual state 232/286  81.11%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -434,7 +434,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: INSTRUCTIVE |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
-| Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
+| Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
