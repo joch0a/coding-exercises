@@ -21,5 +21,29 @@
             }
             return result;
         }
+
+        public int[] SortArrayByParityInPlace(int[] nums)
+        {
+            var evens = 0;
+            var odds = nums.Length - 1;
+
+            while (evens < odds)
+            {
+                if (nums[evens] % 2 == 0)
+                {
+                    evens++;
+                }
+                else
+                {
+                    var tmp = nums[evens];
+                    nums[evens] = nums[odds];
+                    nums[odds] = tmp;
+
+                    odds--;
+                }
+            }
+
+            return nums;
+        }
     }
 }

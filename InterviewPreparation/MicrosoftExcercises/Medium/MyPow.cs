@@ -1,6 +1,6 @@
 ﻿namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
-    class MyPow
+    class SolveMyPow
     {
         public double Solve(double x, int n)
         {

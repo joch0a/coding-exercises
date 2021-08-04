@@ -1,11 +1,9 @@
 ﻿using InterviewPreparation.Exercises;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
-    class SortedListToBST
+    class SolveSortedListToBST
     {
         public TreeNode Solve(ListNode head)
         {

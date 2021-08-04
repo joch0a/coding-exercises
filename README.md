@@ -1,4 +1,4 @@
-# How to contribute?
+ï»¿ # How to contribute?
 
 If you have some interesting and instructive exercise solved on C# feel free to raise a pull request with the solution and the link of the problem.
 
@@ -76,7 +76,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Validate BST | https://leetcode.com/problems/validate-binary-search-tree/ | :white_check_mark: |
 | Kadane's Algorithm :bangbang: | https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ | :white_check_mark: |
 | Min Height Trees | https://leetcode.com/problems/minimum-height-trees/ | :white_check_mark: |
-| K’th Largest Element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 | :white_check_mark: |
+| Kï¿½th Largest Element in BST | https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1 | :white_check_mark: |
 | Invert Binary tree | https://leetcode.com/problems/invert-binary-tree/ | :white_check_mark:  |
 | Diameter of Binary tree :bangbang: | https://leetcode.com/problems/diameter-of-binary-tree/ | :white_check_mark: |
 | ZigZag Ordering | https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/ | :white_check_mark: |
@@ -107,13 +107,13 @@ The idea of this repository is to walk through the most common exercises of the 
 | Longest Increasing Subsequence| https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/ | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
-| Levenshtein distance | https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ | :o: |
-| All Paths From Source to Target | https://leetcode.com/problems/all-paths-from-source-to-target/ | :o: |
+| Levenshtein distance | https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ | :white_check_mark: review it |
+| All Paths From Source to Target | https://leetcode.com/problems/all-paths-from-source-to-target/ | :white_check_mark: |
 | Lowest Common Ancestor of a Binary Search Tree| https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | :o: |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler/ | :o: |
 | Course Schedule | https://leetcode.com/problems/course-schedule/ | :o: |
 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | :white_check_mark: |
-
+| Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | :white_check_mark: Most DP follows this pattern |
 ## Hard
 
 | Name      | Resource link | Status |
@@ -179,10 +179,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 188/286  65.73%
+## Actual state 231/286  80.76%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
-| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: |
+| Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
 | Unique Email Addresses | https://leetcode.com/problems/unique-email-addresses | :white_check_mark: |
 | Fibonacci Number | https://leetcode.com/problems/fibonacci-number | :white_check_mark: |
 | Majority Element | https://leetcode.com/problems/majority-element | :white_check_mark: |
@@ -190,14 +190,14 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark: |
 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :white_check_mark: |
 | Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :white_check_mark: |
-| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review |
+| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review, REVIEWED 1 time |
 | Plus One | https://leetcode.com/problems/plus-one | :white_check_mark: |
 | Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :white_check_mark: |
 | Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :white_check_mark: |
 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :white_check_mark: |
 | Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :white_check_mark: |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :white_check_mark: |
-| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it, done |
+| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it, REVIEWED 1 time|
 | Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
 | Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP ALGORITHM |
@@ -210,7 +210,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :white_check_mark: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
 | Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
-| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up|
+| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up, reviewed 1 time|
 | Reverse String II | https://leetcode.com/problems/reverse-string-ii | :white_check_mark: |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :white_check_mark: |
 | Sqrt| https://leetcode.com/problems/sqrtx | :white_check_mark: annoying using long... |
@@ -301,7 +301,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: review |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: Great excercise |
-| Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :o: |
+| Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :white_check_mark: weird... |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence | :white_check_mark: MAYBE review the O(logN) low priority |
@@ -309,30 +309,30 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :white_check_mark: |
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: ! |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
-| Integer to Roman | https://leetcode.com/problems/integer-to-roman | :o: |
+| Integer to Roman | https://leetcode.com/problems/integer-to-roman | :white_check_mark: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
-| Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :o: |
+| Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: Good question + Lesson: 1 Get the recursion, 2 Try to Memo |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
-| LRU Cache | https://leetcode.com/problems/lru-cache/ | :o: |
+| LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: Lesson: Follow-up questions -> Ask again if the matrix should change |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
-| Rectangle Area | https://leetcode.com/problems/rectangle-area | :o: |
-| Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :o: |
+| Rectangle Area | https://leetcode.com/problems/rectangle-area | :white_check_mark: |
+| Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array | :white_check_mark: |
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
 | Word Break | https://leetcode.com/problems/word-break | :white_check_mark: REVIEW |
-| Decode String | https://leetcode.com/problems/decode-string | :o: |
-| Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :o: |
-| Count and Say | https://leetcode.com/problems/count-and-say | :o: |
+| Decode String | https://leetcode.com/problems/decode-string | :white_check_mark: |
+| Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
+| Count and Say | https://leetcode.com/problems/count-and-say | :white_check_mark: |
 | Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
-| Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :o: |
+| Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :white_check_mark: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
 | Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: ULTRA INSTRUCTIVE|
 | Partition List | https://leetcode.com/problems/partition-list | :white_check_mark: |
@@ -343,8 +343,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | TLE |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
-| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :o: |
-| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :o: INSTRUCTIVE, WEIRD, REVIEW |
+| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: Is like another LCS but kinda weird the iteration |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :white_check_mark: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :white_check_mark: Shitty one :), cool random |
@@ -363,16 +363,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst | :white_check_mark: |
 | Pow | https://leetcode.com/problems/powx-n | :white_check_mark: Meeeeeeeeeeeeeeeeeeeeeeeeeeeh |
 | Max Area of Island | https://leetcode.com/problems/max-area-of-island | :white_check_mark: |
-| Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :o: |
+| Check Completeness of a Binary Tree | https://leetcode.com/problems/check-completeness-of-a-binary-tree | :white_check_mark: |
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :white_check_mark: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
-| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :o: DIJKTRA |
+| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: Solved with bellman-ford, review DFS and Dijsktra |
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
-| Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :o: |
-| Interleaving String | https://leetcode.com/problems/interleaving-string | :o: |
+| Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :white_check_mark: interesting |
+| Interleaving String | https://leetcode.com/problems/interleaving-string | :white_check_mark: MAY review tabulation |
 | Distribute Coins in Binary Tree | https://leetcode.com/problems/distribute-coins-in-binary-tree | :white_check_mark: REVIEW |
 | Random Pick with Weight | https://leetcode.com/problems/random-pick-with-weight | :white_check_mark: Weird... |
 | Design Linked List | https://leetcode.com/problems/design-linked-list | :white_check_mark: |
@@ -386,63 +386,63 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :white_check_mark: |
 | Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
 | Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
-| Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :o: |
-| Maximal Square | https://leetcode.com/problems/maximal-square | :o: |
-| Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :o: |
-| Insert Interval | https://leetcode.com/problems/insert-interval | :o: |
-| Triangle | https://leetcode.com/problems/triangle | :o: |
+| Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :white_check_mark: ALMOST aced. review it |
+| Maximal Square | https://leetcode.com/problems/maximal-square | :white_check_mark: instructive! |
+| Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :white_check_mark: |
+| Insert Interval | https://leetcode.com/problems/insert-interval | :white_check_mark: review it, aced but kinda shitty hehe |
+| Triangle | https://leetcode.com/problems/triangle | :white_check_mark: |
 | Sum of Two Integers | https://leetcode.com/problems/sum-of-two-integers | :o: |
-| K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :o: |
+| K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin | :white_check_mark: |
 | Combinations | https://leetcode.com/problems/combinations | :white_check_mark: |
-| Sort List | https://leetcode.com/problems/sort-list | :o: |
+| Sort List | https://leetcode.com/problems/sort-list | :white_check_mark: |
 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum | :white_check_mark: review binary search follow up |
 | Task Scheduler | https://leetcode.com/problems/task-scheduler | :white_check_mark: |
 | Daily Temperatures | https://leetcode.com/problems/daily-temperatures | :white_check_mark: |
 | Insert into a Binary Search Tree | https://leetcode.com/problems/insert-into-a-binary-search-tree | :white_check_mark: |
 | Binary Tree Level Order Traversal II | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | :white_check_mark: |
-| 4Sum | https://leetcode.com/problems/4sum | :o: |
+| 4Sum | https://leetcode.com/problems/4sum | :white_check_mark: review N-SUM solution |
 | Unique Paths II | https://leetcode.com/problems/unique-paths-ii | :white_check_mark: |
-| 3Sum Closest | https://leetcode.com/problems/3sum-closest | :o: |
-| Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :o: |
+| 3Sum Closest | https://leetcode.com/problems/3sum-closest | :white_check_mark: |
+| Divide Two Integers | https://leetcode.com/problems/divide-two-integers | :white_check_mark: Needs review, NOT bit manipulation try to come up with the recusive and thats fine |
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
 | House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
-| Valid Number | https://leetcode.com/problems/valid-number | :o: |
-| Word Ladder | https://leetcode.com/problems/word-ladder | :o: |
-| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :o: |
+| Valid Number | https://leetcode.com/problems/valid-number | :o: if atoi was annoying, this is the king. On the future try to tackle again |
+| Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
+| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: easy memo :P |
 | Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
-| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :o: |
+| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :white_check_mark: Try DP w/o looking the solution. Review stack |
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
-| First Missing Positive | https://leetcode.com/problems/first-missing-positive | :o: |
-| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :o: |
+| First Missing Positive | https://leetcode.com/problems/first-missing-positive | :white_check_mark: |
+| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: check the cool optimization |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
-| Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :o: |
-| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :o: |
-| Word Search II | https://leetcode.com/problems/word-search-ii | :o: |
-| Word Break | https://leetcode.com/problems/word-break-ii | :o: |
-| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :o: |
+| Word Ladder II | https://leetcode.com/problems/word-ladder-ii | TLE, review it |
+| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: REVIEW IT |
+| Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: INSTRUCTIVE |
+| Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
+| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: REVIEW OPTIMIZATION  |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
-| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :o: |
-| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :o: |
-| Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :o: |
+| Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
+| Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :white_check_mark: May be review the Explore function... in general good  |
+| Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :white_check_mark: Review it, very instructive! |
 | 24 Game | https://leetcode.com/problems/24-game | :o: |
 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
-| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :o: |
-| Edit Distance | https://leetcode.com/problems/edit-distance | :o: |
-| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :o: |
+| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
+| Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: INSTRUCTIVE |
+| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :o: |
-| Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :o: |
-| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :o: |
-| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :o: |
+| Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
+| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: |
+| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
-| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :o: |
-| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :o: |
+| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
+| Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :white_check_mark: NEEDS REVIEW |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
@@ -461,7 +461,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | The Maze | https://leetcode.com/problems/the-maze | :X: |
 | Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
 | Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
-| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | =f
+| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | 
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: | i
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :X: |
