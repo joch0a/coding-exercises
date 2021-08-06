@@ -248,7 +248,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :white_check_mark: |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
-| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping |
+| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping, EASY OPTIMIZED |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
