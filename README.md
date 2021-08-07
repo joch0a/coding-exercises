@@ -344,7 +344,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | TLE |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: Is like another LCS but kinda weird the iteration |
-| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! Still failing... |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :white_check_mark: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :white_check_mark: Shitty one :), cool random |
