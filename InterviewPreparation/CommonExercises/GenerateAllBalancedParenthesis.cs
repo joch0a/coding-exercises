@@ -35,5 +35,37 @@ namespace InterviewPreparation.Exercises
                 path.Remove(path.Length - 1, 1);
             }
         }
+
+        public IList<string> GenerateParenthesis2(int n)
+        {
+            var result = new List<string>();
+
+            DFS(0, 0, n, new StringBuilder(), result);
+
+            return result;
+        }
+
+        private void DFS(int open, int close, int n, StringBuilder actual, IList<string> result)
+        {
+            if (n == open && n == close)
+            {
+                result.Add(actual.ToString());
+            }
+
+            if (open < n)
+            {
+                actual.Append('(');
+                DFS(open + 1, close, n, actual, result);
+                actual.Length = actual.Length - 1;
+            }
+
+            if (close < open)
+            {
+                actual.Append(')');
+                DFS(open, close + 1, n, actual, result);
+                actual.Length = actual.Length - 1;
+            }
+        }
     }
+}
 }
