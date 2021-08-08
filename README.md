@@ -280,7 +280,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: :grey_exclamation: voting :white_check_mark: :grey_exclamation: last part|
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :white_check_mark: probably needs a review, kinda tricky |
-| Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
+| Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: :grey_exclamation: :white_check_mark: good idea to train again |
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :white_check_mark: |

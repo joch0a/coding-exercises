@@ -39,5 +39,43 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
             nums[i] = nums[j];
             nums[j] = tmp;
         }
+
+        public void NextPermutation2(int[] nums)
+        {
+            var index = nums.Length - 1;
+
+            while (index >= 1 && nums[index - 1] >= nums[index])
+            {
+                index--;
+            }
+
+            if (index == 0)
+            {
+                Array.Sort(nums);
+
+                return;
+            }
+
+            var placeToSwap = index - 1;
+
+            index = nums.Length - 1;
+
+            while (index >= 1 && nums[placeToSwap] >= nums[index])
+            {
+                index--;
+            }
+
+            Swap(nums, index, placeToSwap);
+
+            var left = placeToSwap + 1;
+            var right = nums.Length - 1;
+
+            while (left < right)
+            {
+                Swap(nums, left, right);
+                left++;
+                right--;
+            }
+        }
     }
 }
