@@ -288,10 +288,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Group Anagrams | https://leetcode.com/problems/group-anagrams | :white_check_mark: |
 | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array | :white_check_mark: |
 | Serialize and Deserialize BST | https://leetcode.com/problems/serialize-and-deserialize-bst | :white_check_mark: |
-| Multiply Strings | https://leetcode.com/problems/multiply-strings | :white_check_mark: DO IT AGAIN |
+| Multiply Strings | https://leetcode.com/problems/multiply-strings | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
-| Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :white_check_mark: DO IT AGAIN |
-| Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: DO IT AGAIN |
+| Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :white_check_mark: :grey_exclamation: :white_check_mark: |
+| Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :white_check_mark: |
 | 3Sum | https://leetcode.com/problems/3sum | :white_check_mark: :white_check_mark: |
