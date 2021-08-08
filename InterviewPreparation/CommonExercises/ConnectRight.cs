@@ -40,5 +40,39 @@ namespace InterviewPreparation.Exercises
 
             return root;
         }
+
+        public Node Connect2(Node root)
+        {
+            if (root == null)
+            {
+                return root;
+            }
+
+            var current = root;
+
+            while (current != null)
+            {
+                var nextLevel = current.left;
+
+                while (current != null)
+                {
+                    if (current.left != null)
+                    {
+                        current.left.next = current.right;
+                    }
+
+                    if (current.right != null && current.next != null)
+                    {
+                        current.right.next = current.next.left;
+                    }
+
+                    current = current.next;
+                }
+
+                current = nextLevel;
+            }
+
+            return root;
+        }
     }
 }
