@@ -80,4 +80,63 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
             return result;
         }
     }
+
+    //memo optimized :)
+
+    public class Solution
+    {
+        private int[] Xs = { -2, -1, 1, 2, -2, -1, 1, 2 };
+        private int[] Ys = { -1, -2, -2, -1, 1, 2, 2, 1 };
+
+        public double KnightProbability(int n, int k, int row, int column)
+        {
+            var cache = new double[n, n, k + 1];
+
+            return KnightProbability(n, k, row, column, cache); ;
+        }
+
+        public double KnightProbability(int n, int k, int row, int column, double[,,] cache)
+        {
+            if (k == 0)
+            {
+                return 1;
+            }
+
+            if (cache[row, column, k] != 0.0)
+            {
+                return cache[row, column, k];
+            }
+
+            var neighbours = BuildNeighbours(row, column, n);
+            var prob = 0.0;
+
+            foreach (var neighbour in neighbours)
+            {
+                prob += KnightProbability(n, k - 1, neighbour[0], neighbour[1], cache);
+            }
+
+            cache[row, column, k] = prob / 8.0;
+
+            return cache[row, column, k];
+        }
+
+        private IList<int[]> BuildNeighbours(int row, int col, int n)
+        {
+            var neighbours = new List<int[]>();
+
+            for (int index = 0; index < Xs.Length; index++)
+            {
+                var newRow = row + Ys[index];
+                var newCol = col + Xs[index];
+
+                if (newRow >= 0 && newRow < n &&
+                  newCol >= 0 && newCol < n)
+                {
+                    neighbours.Add(new int[] { newRow, newCol });
+                }
+            }
+
+            return neighbours;
+        }
+    }
 }
