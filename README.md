@@ -270,7 +270,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: :white_check_mark: |
 | Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: :white_check_mark: |
 | Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: :white_check_mark: :grey_exclamation: order of conditions |
-| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: :grey_exclamation: follow-up |
+| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: :grey_exclamation: follow-up :white_check_mark: |
 | Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :white_check_mark: |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
