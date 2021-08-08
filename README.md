@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 232/286  81.11%
+## Actual state 234/286  81.81%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -190,17 +190,17 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Add Binary | https://leetcode.com/problems/add-binary | :white_check_mark: |
 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays | :white_check_mark: |
 | Minimum Depth of Binary Tree | https://leetcode.com/problems/minimum-depth-of-binary-tree | :white_check_mark: |
-| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: needs review, REVIEWED 1 time |
+| Remove Linked List Elements | https://leetcode.com/problems/remove-linked-list-elements | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Plus One | https://leetcode.com/problems/plus-one | :white_check_mark: |
 | Peak Index in a Mountain Array | https://leetcode.com/problems/peak-index-in-a-mountain-array | :white_check_mark: |
 | Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths | :white_check_mark: |
 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index | :white_check_mark: |
 | Pascal's Triangle | https://leetcode.com/problems/pascals-triangle | :white_check_mark: |
 | Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list | :white_check_mark: |
-| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: Review it, REVIEWED 1 time|
+| Sort Array By Parity | https://leetcode.com/problems/sort-array-by-parity | :white_check_mark: :grey_exclamation: :white_check_mark:|
 | Word Pattern | https://leetcode.com/problems/word-pattern | :white_check_mark: |
 | Convert Sorted Array to Binary Search Tree | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree | :white_check_mark: |
-| Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP ALGORITHM |
+| Rotate String :bangbang: :bangbang: | https://leetcode.com/problems/rotate-string | :grey_exclamation: KMP |
 | Fizz Buzz | https://leetcode.com/problems/fizz-buzz | :white_check_mark: |
 | Symmetric Tree | https://leetcode.com/problems/symmetric-tree | :white_check_mark: |
 | Remove Duplicates from Sorted Array | https://leetcode.com/problems/remove-duplicates-from-sorted-array | :white_check_mark: |
@@ -209,16 +209,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Third Maximum Number | https://leetcode.com/problems/third-maximum-number | :white_check_mark: QUICKSELECT |
 | Summary Ranges | https://leetcode.com/problems/summary-ranges | :white_check_mark: |
 | Most Common Word | https://leetcode.com/problems/most-common-word | :white_check_mark: |
-| Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: REVIEW FOLLOW UP SOLUTIONS |
-| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: review follow up, reviewed 1 time|
+| Find All Numbers Disappeared in an Array :bangbang: :bangbang:| https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array | :white_check_mark: Follow-ups |
+| Palindrome Number | https://leetcode.com/problems/palindrome-number | :white_check_mark: :grey_exclamation: follow up :white_check_mark:|
 | Reverse String II | https://leetcode.com/problems/reverse-string-ii | :white_check_mark: |
 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs | :white_check_mark: |
 | Sqrt| https://leetcode.com/problems/sqrtx | :white_check_mark: annoying using long... |
 | Two Sum II - Input array is sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted | :white_check_mark: |
 | Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree | :white_check_mark: Review iterative |
 | Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues | :white_check_mark: Review other solutions... weird problem |
-| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :white_check_mark: Before reviewing it, study bit manipulation |
-| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :white_check_mark: review |
+| Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits | :white_check_mark: :grey_exclamation: bit manipulation |
+| Balanced Binary Tree | https://leetcode.com/problems/balanced-binary-tree | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Subtree of Another Tree | https://leetcode.com/problems/subtree-of-another-tree | :white_check_mark: |
 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome | :white_check_mark: |
 | Move Zeroes | https://leetcode.com/problems/move-zeroes | :white_check_mark: |
@@ -228,16 +228,16 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Implement strStr| https://leetcode.com/problems/implement-strstr | :white_check_mark: |
 | Reverse Integer | https://leetcode.com/problems/reverse-integer | :white_check_mark: |
 | Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list | :white_check_mark: |
-| Min Stack | https://leetcode.com/problems/min-stack | :white_check_mark: review (Just a little) |
-| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :white_check_mark: review (Just a little)|
+| Min Stack | https://leetcode.com/problems/min-stack | :white_check_mark: :grey_exclamation: (Just a little) |
+| Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks | :white_check_mark: :grey_exclamation: (Just a little)|
 | Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree | :white_check_mark: |
-| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :white_check_mark: magic math formula... boring |
+| Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes | :white_check_mark: :grey_exclamation: Math |
 | Valid Anagram | https://leetcode.com/problems/valid-anagram | :white_check_mark: |
 | Reverse Words in a String III | https://leetcode.com/problems/reverse-words-in-a-string-iii | :white_check_mark: |
 | Excel Sheet Column Number | https://leetcode.com/problems/excel-sheet-column-number | :white_check_mark: |
 | Add Strings | https://leetcode.com/problems/add-strings | :white_check_mark: |
 | Count Primes | https://leetcode.com/problems/count-primes | :white_check_mark: |
-| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :white_check_mark: easy but tricky |
+| Rectangle Overlap | https://leetcode.com/problems/rectangle-overlap | :white_check_mark: :grey_exclamation: tricky |
 | Reverse Only Letters | https://leetcode.com/problems/reverse-only-letters | :white_check_mark: |
 | Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal | :white_check_mark: |
 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle | :white_check_mark: |
@@ -245,18 +245,18 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Intersection of Two Linked Lists | https://leetcode.com/problems/intersection-of-two-linked-lists | :white_check_mark: |
 | Excel Sheet Column Title | https://leetcode.com/problems/excel-sheet-column-title | :white_check_mark: |
 | Roman to Integer | https://leetcode.com/problems/roman-to-integer | :white_check_mark: |
-| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: review optimization again|
+| Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Design HashMap | https://leetcode.com/problems/design-hashmap | :white_check_mark: |
 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock | :white_check_mark: |
-| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: Can be optimized using a mapping, EASY OPTIMIZED |
+| Valid Parentheses | https://leetcode.com/problems/valid-parentheses | :white_check_mark: :grey_exclamation: mapping :white_check_mark: |
 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list | :white_check_mark: |
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
 | Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
-| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: |
+| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
-| Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: NEED TO STUDY MORE STACKS |
-| Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: |
+| Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: :grey_exclamation: Mono stack :white_check_mark: |
+| Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: :white_check_mark: |
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
 | (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: |
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
@@ -341,7 +341,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :white_check_mark: |
 | Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :white_check_mark: |
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
-| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | TLE |
+| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :white_check_mark: |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: Is like another LCS but kinda weird the iteration |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! Still failing... |
