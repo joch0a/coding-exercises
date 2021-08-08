@@ -2,46 +2,56 @@
 
 namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
-    class ExclusiveTime
+    public class ExclusiveTimes
     {
-        public int[] Solve(int n, IList<string> logs)
+        public int[] ExclusiveTime(int n, IList<string> logs)
         {
-            var times = new int[n];
-            var stack = new Stack<Log>();
-            var prevTime = 0;
+            var exclusiveTimes = new int[n];
+            var stack = new Stack<Interval>();
+            var lastTime = 0;
+
             foreach (var log in logs)
             {
-                var actual = new Log(log.Split(':'));
-                if (actual.State == "start")
+                var interval = new Interval(log);
+
+                if (interval.IsStart)
                 {
                     if (stack.Count > 0)
                     {
-                        var prev = stack.Peek();
-                        times[prev.Id] += actual.Time - prevTime;
+                        exclusiveTimes[stack.Peek().FunctionId] += interval.Timestamp - lastTime;
                     }
-                    prevTime = actual.Time;
-                    stack.Push(actual);
+
+                    lastTime = interval.Timestamp;
+                    stack.Push(interval);
                 }
                 else
                 {
-                    times[actual.Id] += actual.Time - prevTime + 1;
-                    prevTime = actual.Time + 1;
-                    stack.Pop();
+                    var prev = stack.Pop();
+                    exclusiveTimes[prev.FunctionId] += interval.Timestamp - lastTime + 1;
+
+                    lastTime = interval.Timestamp + 1;
                 }
             }
-            return times;
+
+            return exclusiveTimes;
         }
-        public class Log
+    }
+
+    public class Interval
+    {
+        public int FunctionId { get; set; }
+
+        public bool IsStart { get; set; }
+
+        public int Timestamp { get; set; }
+
+        public Interval(string log)
         {
-            public int Id { get; set; }
-            public string State { get; set; }
-            public int Time { get; set; }
-            public Log(string[] data)
-            {
-                Id = int.Parse(data[0]);
-                State = data[1];
-                Time = int.Parse(data[2]);
-            }
+            string[] decoded = log.Split(":");
+
+            FunctionId = int.Parse(decoded[0]);
+            IsStart = decoded[1] == "start";
+            Timestamp = int.Parse(decoded[2]);
         }
     }
 }
