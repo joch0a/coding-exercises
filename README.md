@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 234/286  81.81%
+## Actual state 237/286  82.86%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -267,10 +267,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :white_check_mark: |
 | Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
 | String to Integer | https://leetcode.com/problems/string-to-integer-atoi | :white_check_mark: |
-| Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: |
-| Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: |
-| Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: |
-| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: Review follow-up question |
+| Exclusive Time of Functions | https://leetcode.com/problems/exclusive-time-of-functions | :grey_exclamation: :white_check_mark: |
+| Sort Colors | https://leetcode.com/problems/sort-colors | :grey_exclamation: :white_check_mark: |
+| Remove Comments | https://leetcode.com/problems/remove-comments | :grey_exclamation: :white_check_mark: :grey_exclamation: order of conditions |
+| Swap Nodes in Pairs | https://leetcode.com/problems/swap-nodes-in-pairs | :white_check_mark: :grey_exclamation: follow-up |
 | Pacific Atlantic Water Flow | https://leetcode.com/problems/pacific-atlantic-water-flow | :white_check_mark: |
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
