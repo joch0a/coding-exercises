@@ -298,7 +298,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: :white_check_mark: |
 | Rotate List | https://leetcode.com/problems/rotate-list | :white_check_mark: |
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
-| Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: review |
+| Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: :grey_exclamation: | :white_check_mark: :grey_exclamation: just a little |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
 | Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: Great excercise |
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :white_check_mark: weird... |
