@@ -1,38 +1,39 @@
 ﻿namespace InterviewPreparation.Exercises
 {
-    class SortColorsEx
+    public class SortColorsEx
     {
         public void SortColors(int[] nums)
         {
             var left = 0;
-            var medium = 0;
             var right = nums.Length - 1;
+            var index = 0;
 
-            while (medium <= right)
+            while (index <= right)
             {
-                if (nums[medium] == 0)
+                var actual = nums[index];
+
+                if (actual == 0)
                 {
-                    Swap(nums, left, medium);
+                    Swap(left, index, nums);
                     left++;
-                    medium++;
+                    index++;
                 }
-
-                else if (nums[medium] == 1)
+                else if (actual == 1)
                 {
-                    medium++;
+                    index++;
                 }
-
-                else if (nums[medium] == 2)
+                else // actual == 2
                 {
-                    Swap(nums, medium, right);
+                    Swap(right, index, nums);
                     right--;
                 }
             }
         }
 
-        private void Swap(int[] nums, int i, int j)
+        public void Swap(int i, int j, int[] nums)
         {
             var aux = nums[i];
+
             nums[i] = nums[j];
             nums[j] = aux;
         }
