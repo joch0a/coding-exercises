@@ -116,3 +116,85 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
      * bool param_3 = obj.StartsWith(prefix);
      */
 }
+
+public class Trie
+{
+
+    private TrieNode root;
+    /** Initialize your data structure here. */
+    public Trie()
+    {
+        root = new TrieNode();
+    }
+
+    /** Inserts a word into the trie. */
+    public void Insert(string word)
+    {
+        var currentNode = root;
+
+        for (int i = 0; i < word.Length; i++)
+        {
+            currentNode = currentNode.GetOrInsert(word[i]);
+        }
+
+        currentNode.Word = word;
+    }
+
+    /** Returns if the word is in the trie. */
+    public bool Search(string word)
+    {
+        var currentNode = root;
+
+        for (int i = 0; i < word.Length && currentNode != null; i++)
+        {
+            currentNode = currentNode.Get(word[i]);
+        }
+
+        return currentNode != null && currentNode.Word == word;
+    }
+
+    /** Returns if there is any word in the trie that starts with the given prefix. */
+    public bool StartsWith(string word)
+    {
+        var currentNode = root;
+
+        for (int i = 0; i < word.Length && currentNode != null; i++)
+        {
+            currentNode = currentNode.Get(word[i]);
+        }
+
+        return currentNode != null;
+    }
+}
+
+public class TrieNode
+{
+    public Dictionary<char, TrieNode> Links { get; set; }
+    public string Word { get; set; }
+
+    public TrieNode()
+    {
+        Word = "";
+        Links = new Dictionary<char, TrieNode>();
+    }
+
+    public TrieNode GetOrInsert(char current)
+    {
+        if (!Links.ContainsKey(current))
+        {
+            Links.Add(current, new TrieNode());
+        }
+
+        return Links[current];
+    }
+
+    public TrieNode Get(char current)
+    {
+        if (!Links.ContainsKey(current))
+        {
+            return null;
+        }
+
+        return Links[current];
+    }
+}
