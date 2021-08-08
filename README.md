@@ -294,8 +294,8 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: DO IT AGAIN |
 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :white_check_mark: |
-| 3Sum | https://leetcode.com/problems/3sum | :white_check_mark: review |
-| Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: review |
+| 3Sum | https://leetcode.com/problems/3sum | :white_check_mark: :white_check_mark: |
+| Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: :white_check_mark: |
 | Rotate List | https://leetcode.com/problems/rotate-list | :white_check_mark: |
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: review |
