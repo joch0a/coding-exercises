@@ -275,10 +275,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree | :white_check_mark: |
 | Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring | :white_check_mark: |
 | Word Search | https://leetcode.com/problems/word-search | :white_check_mark: |
-| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: review divide and conquer solution |
+| Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :white_check_mark: |
 | Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
-| Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: Need to review voting approach |
+| Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: :grey_exclamation: voting :white_check_mark: :grey_exclamation: last part|
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :white_check_mark: probably needs a review, kinda tricky |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: Need review |
 | Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
