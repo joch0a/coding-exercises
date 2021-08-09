@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 237/286  82.86%
+## Actual state 238/286  83.21%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -300,7 +300,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Battleships in a Board | https://leetcode.com/problems/battleships-in-a-board | :white_check_mark: |
 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal | :white_check_mark: :grey_exclamation: | :white_check_mark: :grey_exclamation: just a little |
 | Merge Intervals | https://leetcode.com/problems/merge-intervals | :white_check_mark: |
-| Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: Great excercise |
+| Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | :white_check_mark: :white_check_mark: |
 | Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl | :white_check_mark: weird... |
 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum | :white_check_mark: |
 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal | :white_check_mark:  |
@@ -408,7 +408,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
 | House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
-| Valid Number | https://leetcode.com/problems/valid-number | :o: if atoi was annoying, this is the king. On the future try to tackle again |
+| Valid Number | https://leetcode.com/problems/valid-number | :white_check_mark: patience and drawing is the key |
 | Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: easy memo :P |
 | Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
