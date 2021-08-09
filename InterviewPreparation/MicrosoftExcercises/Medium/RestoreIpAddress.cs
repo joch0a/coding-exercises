@@ -64,3 +64,52 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
         }
     }
 }
+
+
+public class RestoreIpAddresses
+{
+    public IList<string> RestoreIpAddressesReview(string s)
+    {
+        var restored = new List<string>();
+        if (s.Length < 4 || s.Length > 12)
+        {
+            return restored;
+        }
+        Backtrack(s, 0, 0, new string[4], restored);
+        return restored;
+    }
+    public void Backtrack(string str, int start, int blockCount, string[] blocks, List<string> restored)
+    {
+        if (blockCount == 4)
+        {
+            if (str.Length == start)
+            {
+                var ip = new StringBuilder();
+                foreach (var block in blocks)
+                {
+                    ip.Append($"{block}.");
+                }
+                ip.Length -= 1;
+                restored.Add(ip.ToString());
+            }
+            return;
+        }
+        string currentBlock = "";
+        for (int i = 0; i < 4 && start + i < str.Length; i++)
+        {
+            currentBlock += str[start + i];
+            if (isValid(currentBlock))
+            {
+                blocks[blockCount] = currentBlock;
+                Backtrack(str, start + i + 1, blockCount + 1, blocks, restored);
+                blocks[blockCount] = "";
+            }
+        }
+    }
+    private bool isValid(string block)
+    {
+        var num = int.Parse(block);
+
+        return num >= 0 && num <= 255 && num.ToString().Length == block.Length;
+    }
+}
