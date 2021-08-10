@@ -310,11 +310,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: :grey_exclamation: |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :white_check_mark: |
-| Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: This is a hard one :)|
+| Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
-| Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: Good question + Lesson: 1 Get the recursion, 2 Try to Memo |
+| Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
 | LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
