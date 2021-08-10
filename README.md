@@ -318,7 +318,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
 | LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
-| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: Lesson: Follow-up questions -> Ask again if the matrix should change |
+| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
