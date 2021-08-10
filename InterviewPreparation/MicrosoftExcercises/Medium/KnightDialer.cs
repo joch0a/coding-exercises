@@ -128,5 +128,46 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
 
             return sum;
         }
+
+        private const int MOD = (int)1e9 + 7;
+
+        public int KnightDialer3(int n)
+        {
+            var dp = new int[n, 10];
+            var sum = 0;
+
+            for (int i = 0; i < 10; i++)
+            {
+                sum += DFS(n - 1, i, dp);
+            }
+
+            sum %= MOD;
+
+            return sum;
+        }
+
+        private int DFS(int n, int i, int[,] dp)
+        {
+            if (n == 0)
+            {
+                return 1;
+            }
+
+            if (dp[n, i] != 0)
+            {
+                return dp[n, i];
+            }
+
+            var sum = 0;
+
+            foreach (var jump in jumps[i])
+            {
+                sum += DFS(n - 1, jump, dp);
+            }
+
+            dp[n, i] = sum % MOD;
+
+            return dp[n, i];
+        }
     }
 }
