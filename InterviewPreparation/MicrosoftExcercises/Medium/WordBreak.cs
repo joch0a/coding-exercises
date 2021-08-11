@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace InterviewPreparation.MicrosoftExcercises.Medium
 {
-    public class Solution
+    public class WordBreakEx
     {
 
         public Dictionary<string, bool> Cache = new Dictionary<string, bool>();
