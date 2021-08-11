@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 238/286  83.21%
+## Actual state 239/286  83.56%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -327,11 +327,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self | :white_check_mark: |
 | Simplify Path | https://leetcode.com/problems/simplify-path | :white_check_mark: |
 | Container With Most Water | https://leetcode.com/problems/container-with-most-water | :white_check_mark: |
-| Word Break | https://leetcode.com/problems/word-break | :white_check_mark: REVIEW |
+| Word Break | https://leetcode.com/problems/word-break | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Decode String | https://leetcode.com/problems/decode-string | :white_check_mark: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :white_check_mark: |
-| Decode Ways | https://leetcode.com/problems/decode-ways | :grey_exclamation: |
+| Decode Ways | https://leetcode.com/problems/decode-ways | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :white_check_mark: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
 | Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: ULTRA INSTRUCTIVE|
