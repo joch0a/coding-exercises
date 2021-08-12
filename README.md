@@ -334,17 +334,17 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Decode Ways | https://leetcode.com/problems/decode-ways | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :white_check_mark: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
-| Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: ULTRA INSTRUCTIVE|
+| Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: :white_check_mark: |
 | Partition List | https://leetcode.com/problems/partition-list | :white_check_mark: |
-| Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes | :white_check_mark: Review it |
+| Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes | :white_check_mark: :white_check_mark: |
 | Game of Life | https://leetcode.com/problems/game-of-life | :white_check_mark: |
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :white_check_mark: |
 | Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :white_check_mark: |
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
 | Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :white_check_mark: |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
-| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: Is like another LCS but kinda weird the iteration |
-| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: Weird, review it! Still failing... |
+| Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: :white_check_mark: |
+| Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: :white_check_mark: :grey_exclamation: |
 | Rotate Array | https://leetcode.com/problems/rotate-array | :white_check_mark: |
 | Odd Even Linked List | https://leetcode.com/problems/odd-even-linked-list | :white_check_mark: |
 | Shuffle an Array | https://leetcode.com/problems/shuffle-an-array | :white_check_mark: Shitty one :), cool random |
