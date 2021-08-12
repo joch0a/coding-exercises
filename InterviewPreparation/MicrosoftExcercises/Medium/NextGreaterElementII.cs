@@ -27,5 +27,35 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
 
             return res;
         }
+
+        public int[] NextGreaterElementsReviewed(int[] nums)
+        {
+            var stack = new Stack<int>();
+            var greaters = new int[nums.Length];
+            var N = nums.Length * 2;
+            var n = nums.Length;
+
+            for (int i = 0; i < N; i++)
+            {
+                var currentIndex = i % n;
+
+                while (stack.Count > 0 && nums[currentIndex] > nums[stack.Peek()])
+                {
+                    greaters[stack.Pop()] = nums[currentIndex];
+                }
+
+                if (i < n)
+                {
+                    stack.Push(i);
+                }
+            }
+
+            while (stack.Count > 0)
+            {
+                greaters[stack.Pop()] = -1;
+            }
+
+            return greaters;
+        }
     }
 }
