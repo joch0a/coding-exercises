@@ -358,7 +358,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Combination Sum | https://leetcode.com/problems/combination-sum | :white_check_mark: |
 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii | :white_check_mark: |
 | Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix | :white_check_mark: Review binary search |
-| Valid Triangle Number | https://leetcode.com/problems/valid-triangle-number | :white_check_mark: Cool exercise |
+| Valid Triangle Number | https://leetcode.com/problems/valid-triangle-number | :white_check_mark: :white_check_mark: :grey_exclamation: |
 | Convert Sorted List to Binary Search Tree | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree | :white_check_mark: |
 | Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst | :white_check_mark: |
 | Pow | https://leetcode.com/problems/powx-n | :white_check_mark: Meeeeeeeeeeeeeeeeeeeeeeeeeeeh |
