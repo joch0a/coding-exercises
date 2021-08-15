@@ -33,5 +33,28 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
 
             return longest;
         }
+
+        public int LengthOfLongestSubstringReview(string s)
+        {
+            var dict = new Dictionary<char, int>();
+            var max = 0;
+            var lastIndex = 0;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                var actual = s[i];
+
+                if (dict.ContainsKey(actual))
+                {
+                    lastIndex = Math.Max(lastIndex, dict[actual] + 1);
+                }
+
+                dict[actual] = i;
+
+                max = Math.Max(max, i - lastIndex + 1);
+            }
+
+            return max;
+        }
     }
 }
