@@ -49,4 +49,56 @@ namespace InterviewPreparation.MicrosoftExcercises.Medium
             }
         }
     }
+
+    public class Revision
+    {
+        public string[] pad = new string[]
+        {
+            "",
+            "",
+            "abc",
+            "def",
+            "ghi",
+            "jkl",
+            "mno",
+            "pqrs",
+            "tuv",
+            "wxyz"
+        };
+
+        public IList<string> LetterCombinations(string digits)
+        {
+            var combinations = new List<string>();
+
+            if (digits.Length < 1)
+            {
+                return combinations;
+            }
+
+            Backtrack(digits, 0, new StringBuilder(), combinations);
+
+            return combinations;
+        }
+
+        private void Backtrack(string digits, int index, StringBuilder current, IList<string> combinations)
+        {
+            if (index == digits.Length)
+            {
+                combinations.Add(current.ToString());
+
+                return;
+            }
+
+            var currentNumber = (int)digits[index] - '0';
+
+            foreach (var ch in pad[currentNumber])
+            {
+                current.Append(ch);
+
+                Backtrack(digits, index + 1, current, combinations);
+
+                current.Length -= 1;
+            }
+        }
+    }
 }
