@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 239/286  83.56%
+## Actual state 240/286  83.91%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -450,22 +450,22 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
 | Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
 | Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :X: | 
+| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o: | 
 | Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :o: |
 | Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
-| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :o: | af?
+| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :o: | 
 | Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree | :o: |
 | Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :o: |
 | Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :o: | 
 | Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
-| The Maze | https://leetcode.com/problems/the-maze | :X: |
+| The Maze | https://leetcode.com/problems/the-maze | :o: |
 | Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
 | Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
-| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :o: | 
+| Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :white_check_mark: | 
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
-| Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: | i
-| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :X: |
-| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :X: |
-| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :X: |
-| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | X | 
-| (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | X |
+| Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
+| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
+| Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :o: |
+| Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :o: |
+| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :o: | 
+| (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :o: |
