@@ -308,7 +308,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator | :white_check_mark: |
 | Top K Frequent Elements | https://leetcode.com/problems/top-k-frequent-elements | :white_check_mark: |
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: :grey_exclamation: |
-| Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: |
+| Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: :grey_exclamation: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :white_check_mark: |
 | Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
