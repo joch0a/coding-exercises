@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 240/286  83.91%
+## Actual state 242/286  84.61%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -446,7 +446,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
-| One Edit Distance | https://leetcode.com/problems/one-edit-distance | :o: |
+| One Edit Distance | https://leetcode.com/problems/one-edit-distance | :white_check_mark: review o(n) solution |
 | Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
 | Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
 | Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
@@ -460,7 +460,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
 | The Maze | https://leetcode.com/problems/the-maze | :o: |
 | Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :o: |
-| Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :o: |
+| Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :white_check_mark: |
 | Find the Celebrity | https://leetcode.com/problems/find-the-celebrity | :white_check_mark: | 
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
