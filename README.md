@@ -88,7 +88,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Add two numbers| https://leetcode.com/problems/add-two-numbers/ | :grey_exclamation: |
 | Odd Even Linked List| https://leetcode.com/problems/add-two-numbers/ | :white_check_mark: (Revisit o(1) solution) |
 | Intersection of Two Linked Lists :bangbang: :bangbang:| https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/ | :white_check_mark: |
-| Letter Combinations of a Phone Number :bangbang: :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :grey_exclamation: |
+| Letter Combinations of a Phone Number :bangbang: :bangbang: | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/ | :white_check_mark: |
 | Generate Parentheses | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/794/ | :white_check_mark: |
 | Permutations | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/ | :white_check_mark: |
 | Subsets | https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/796/ | :white_check_mark: |
@@ -254,7 +254,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
 | Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
-| Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: |
+| Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: :white_check_mark: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: :grey_exclamation: Mono stack :white_check_mark: |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: :white_check_mark: |
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
@@ -262,7 +262,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
-| Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: |
+| Add Two Numbers | https://leetcode.com/problems/add-two-numbers | :white_check_mark: :white_check_mark: |
 | String Compression | https://leetcode.com/problems/string-compression | :white_check_mark: |
 | Valid Tic-Tac-Toe State | https://leetcode.com/problems/valid-tic-tac-toe-state | :white_check_mark: |
 | Rotate Image | https://leetcode.com/problems/rotate-image | :white_check_mark: |
@@ -277,7 +277,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Word Search | https://leetcode.com/problems/word-search | :white_check_mark: |
 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii | :white_check_mark: |
 | Find the Duplicate Number | https://leetcode.com/problems/find-the-duplicate-number | :white_check_mark: |
-| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: |
+| Letter Combinations of a Phone Number | https://leetcode.com/problems/letter-combinations-of-a-phone-number | :white_check_mark: :white_check_mark: |
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: :grey_exclamation: voting :white_check_mark: :grey_exclamation: last part|
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :white_check_mark: probably needs a review, kinda tricky |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: :grey_exclamation: :white_check_mark: good idea to train again |
@@ -292,7 +292,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Top K Frequent Words | https://leetcode.com/problems/top-k-frequent-words | :white_check_mark: |
 | Implement Trie | https://leetcode.com/problems/implement-trie-prefix-tree | :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Populating Next Right Pointers in Each Node | https://leetcode.com/problems/populating-next-right-pointers-in-each-node | :white_check_mark: :grey_exclamation: :white_check_mark: |
-| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: |
+| Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters | :white_check_mark: :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator-ii | :white_check_mark: |
 | 3Sum | https://leetcode.com/problems/3sum | :white_check_mark: :white_check_mark: |
 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses | :white_check_mark: :white_check_mark: |
@@ -436,7 +436,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
-| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: |
+| Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: :white_check_mark: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
