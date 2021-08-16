@@ -444,7 +444,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :white_check_mark: NEEDS REVIEW |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
-| Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :o: |
+| Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :grey_exclamation: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
 | One Edit Distance | https://leetcode.com/problems/one-edit-distance | :white_check_mark: review o(n) solution |
 | Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
