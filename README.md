@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 242/286  84.61%
+## Actual state 243/286  84.96%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -447,7 +447,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :grey_exclamation: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
 | One Edit Distance | https://leetcode.com/problems/one-edit-distance | :white_check_mark: review o(n) solution |
-| Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :o: |
+| Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :white_check_mark: |
 | Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
 | Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
 | K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o: | 
