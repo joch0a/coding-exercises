@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 249/286  87.06%
+## Actual state 250/286  87.41%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -449,7 +449,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :white_check_mark: |
 | Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
 | Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :o: |
-| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :o: | 
+| Walls and Gates | https://leetcode.com/problems/walls-and-gates | :white_check_mark: interesting approach | 
 | Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree | :o: |
 | Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :o: |
 | Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :o: | 
