@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 245/286  85.66%
+## Actual state 246/286  86.01%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -467,5 +467,5 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
 | Boundary of Binary Tree | https://leetcode.com/problems/boundary-of-binary-tree | :white_check_mark: |
 | Reverse Words in a String II | https://leetcode.com/problems/reverse-words-in-a-string-ii | :white_check_mark: |
-| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :o: | 
+| Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :white_check_mark: :grey_exclamation: | 
 | (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :o: |
