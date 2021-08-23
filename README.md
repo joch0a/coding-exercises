@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 256/286  89.51%
+## Actual state 258/286  90.20%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -369,7 +369,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
 | Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: Solved with bellman-ford, review DFS and Dijsktra |
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
-| Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :o: |
+| Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :white_check_mark: :grey_exclamation: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings | :white_check_mark: interesting |
 | Interleaving String | https://leetcode.com/problems/interleaving-string | :white_check_mark: MAY review tabulation |
@@ -385,7 +385,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array | :white_check_mark: |
 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency | :white_check_mark: |
 | Course Schedule | https://leetcode.com/problems/course-schedule | :white_check_mark: |
-| Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :o: |
+| Reconstruct Itinerary | https://leetcode.com/problems/reconstruct-itinerary | :white_check_mark: :grey_exclamation: |
 | Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum | :white_check_mark: ALMOST aced. review it |
 | Maximal Square | https://leetcode.com/problems/maximal-square | :white_check_mark: instructive! |
 | Flatten Nested List Iterator | https://leetcode.com/problems/flatten-nested-list-iterator | :white_check_mark: |
