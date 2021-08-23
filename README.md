@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 251/286  87.76%
+## Actual state 256/286  89.51%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -447,13 +447,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :grey_exclamation: |
 | One Edit Distance | https://leetcode.com/problems/one-edit-distance | :white_check_mark: review o(n) solution |
 | Palindrome Permutation | https://leetcode.com/problems/palindrome-permutation | :white_check_mark: |
-| Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :o: |
-| Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :o: |
+| Insert into a Cyclic Sorted List | https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/ | :white_check_mark: :grey_exclamation: |
+| Convert Binary Search Tree to Sorted Doubly Linked List | https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list | :white_check_mark: |
 | Walls and Gates | https://leetcode.com/problems/walls-and-gates | :white_check_mark: interesting approach | 
 | Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree | :white_check_mark: Instructive DFS! |
-| Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :o: |
-| Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :o: | 
-| Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :o: |
+| Moving Average from Data Stream | https://leetcode.com/problems/moving-average-from-data-stream | :white_check_mark: |
+| Wiggle Sort | https://leetcode.com/problems/wiggle-sort | :white_check_mark: | 
+| Binary Tree Vertical Order Traversal | https://leetcode.com/problems/binary-tree-vertical-order-traversal | :white_check_mark: |
 | The Maze | https://leetcode.com/problems/the-maze | :white_check_mark: |
 | Design Hit Counter | https://leetcode.com/problems/design-hit-counter | :white_check_mark: |
 | Number of Distinct Islands | https://leetcode.com/problems/number-of-distinct-islands | :white_check_mark: |
