@@ -12,6 +12,12 @@
         {
         }
 
+        public Node(int _val, Node _left)
+        {
+            val = _val;
+            left = _left;
+        }
+
         public Node(int _val)
         {
             val = _val;
