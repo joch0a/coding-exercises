@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 258/286  90.20%
+## Actual state 260/286  90.90%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -419,7 +419,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | TLE, review it |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: REVIEW IT |
-| Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: INSTRUCTIVE |
+| Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
 | Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: REVIEW OPTIMIZATION  |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
@@ -433,7 +433,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: INSTRUCTIVE |
-| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :grey_exclamation: Review, TLE |
+| Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: :white_check_mark: |
