@@ -438,7 +438,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: :white_check_mark: |
 | Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
-| Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :o: |
+| Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :white_check_mark: BS |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
 | Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
