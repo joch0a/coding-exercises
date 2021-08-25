@@ -32,6 +32,35 @@ namespace InterviewPreparation.CommonExercises.Hard_Graph
                     return Math.Max(left, right) + root.val;
                 }
             }
+
+            public int MaxPathSum2(TreeNode root)
+            {
+                if (root == null)
+                {
+                    return 0;
+                }
+
+                var max = root.val;
+
+                DFS2(root, ref max);
+
+                return max;
+            }
+
+            private int DFS2(TreeNode root, ref int max)
+            {
+                if (root == null)
+                {
+                    return 0;
+                }
+
+                var left = Math.Max(0, DFS2(root.left, ref max));
+                var right = Math.Max(0, DFS2(root.right, ref max));
+
+                max = Math.Max(max, left + right + root.val);
+
+                return Math.Max(left, right) + root.val;
+            }
         }
     }
 }

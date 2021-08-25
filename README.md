@@ -410,12 +410,12 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
 | Valid Number | https://leetcode.com/problems/valid-number | :white_check_mark: patience and drawing is the key |
 | Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
-| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: easy memo :P |
+| Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: |
 | Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line | :o: |
-| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :white_check_mark: Try DP w/o looking the solution. Review stack |
+| Longest Valid Parentheses | https://leetcode.com/problems/longest-valid-parentheses | :white_check_mark: |
 | Text Justification | https://leetcode.com/problems/text-justification | :o: |
 | First Missing Positive | https://leetcode.com/problems/first-missing-positive | :white_check_mark: |
-| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: check the cool optimization |
+| Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | TLE, review it |
 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: REVIEW IT |
@@ -432,7 +432,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
-| Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: INSTRUCTIVE |
+| Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: :bangbang: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
@@ -441,7 +441,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :white_check_mark: BS |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
-| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: REVIEW IT |
+| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | :white_check_mark: |
 | Find the Closest Palindrome | https://leetcode.com/problems/find-the-closest-palindrome | :white_check_mark: NEEDS REVIEW |
 | Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group | :white_check_mark: |
 | Closest Binary Search Tree Value | https://leetcode.com/problems/closest-binary-search-tree-value | :grey_exclamation: |
