@@ -418,10 +418,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum | :white_check_mark: |
 | N-Queens | https://leetcode.com/problems/n-queens | :white_check_mark: |
 | Word Ladder II | https://leetcode.com/problems/word-ladder-ii | :white_check_mark: :grey_exclamation: |
-| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: REVIEW IT |
+| Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence | :white_check_mark: :white_check_mark: |
 | Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
-| Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: REVIEW OPTIMIZATION  |
+| MinWindow | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: :white_check_mark:  |
 | Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
