@@ -431,7 +431,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
-| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
+| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: :white_check_mark:, review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: :bangbang: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
