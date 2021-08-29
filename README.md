@@ -367,7 +367,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :white_check_mark: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
-| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: Solved with bellman-ford, review DFS and Dijsktra |
+| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: :white_check_mark: |
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :white_check_mark: :grey_exclamation: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
