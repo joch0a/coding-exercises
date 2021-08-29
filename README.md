@@ -422,7 +422,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
 | MinWindow | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: :white_check_mark:  |
-| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
+| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: :white_check_mark: |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :white_check_mark: May be review the Explore function... in general good  |
@@ -437,7 +437,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: :white_check_mark: |
-| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
+| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: :white_check_mark: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :white_check_mark: BS |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
