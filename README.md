@@ -466,7 +466,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
 | Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o: | 
+| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o:  | 
 | Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
 
