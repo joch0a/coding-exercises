@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 261/286  91.25%
+## Actual state 263/286  91.95%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -464,9 +464,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :white_check_mark: |
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
-| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
+| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :white_check_mark: |
 | Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
 | K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o:  | 
-| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
+| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :white_check_mark: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
 
