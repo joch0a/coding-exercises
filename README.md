@@ -253,7 +253,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
 | Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
-| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
+| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: :white_check_mark: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: :grey_exclamation: Mono stack :white_check_mark: |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: :white_check_mark: |
