@@ -331,7 +331,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Decode String | https://leetcode.com/problems/decode-string | :white_check_mark: |
 | Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree | :white_check_mark: |
 | Count and Say | https://leetcode.com/problems/count-and-say | :white_check_mark: |
-| Decode Ways | https://leetcode.com/problems/decode-ways | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
+| Decode Ways | https://leetcode.com/problems/decode-ways | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: :white_check_mark: memo ftw |
 | Search a 2D Matrix | https://leetcode.com/problems/search-a-2d-matrix | :white_check_mark: |
 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list | :white_check_mark: !!|
 | Next Greater Element II :bangbang: | https://leetcode.com/problems/next-greater-element-ii | :white_check_mark: :white_check_mark: |
@@ -407,7 +407,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array | :white_check_mark: |
 | Unique Paths | https://leetcode.com/problems/unique-paths | :white_check_mark: |
 | Subsets | https://leetcode.com/problems/subsets | :white_check_mark: |
-| House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns |
+| House Robber | https://leetcode.com/problems/house-robber | :white_check_mark: Review it and do similar questions, struggling solving this type of patterns :white_check_mark: Memo is really easy |
 | Valid Number | https://leetcode.com/problems/valid-number | :white_check_mark: patience and drawing is the key |
 | Word Ladder :bangbang: | https://leetcode.com/problems/word-ladder | :white_check_mark: Future me, remember about bi-directional search |
 | Longest Increasing Path in a Matrix | https://leetcode.com/problems/longest-increasing-path-in-a-matrix | :white_check_mark: |
