@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 261/286  91.25%
+## Actual state 263/286  91.95%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -253,7 +253,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Subarray | https://leetcode.com/problems/maximum-subarray | :white_check_mark: |
 | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array | :white_check_mark: |
 | Two Sum | https://leetcode.com/problems/two-sum | :white_check_mark: |
-| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
+| Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string | :white_check_mark: :white_check_mark: |
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: :grey_exclamation: Mono stack :white_check_mark: |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: :white_check_mark: |
@@ -367,7 +367,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Peeking Iterator | https://leetcode.com/problems/peeking-iterator | :white_check_mark: MEH |
 | Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal | :white_check_mark: |
 | Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k | :white_check_mark: Instructive way of prefix sum |
-| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: Solved with bellman-ford, review DFS and Dijsktra |
+| Cheapest Flights Within K Stops | https://leetcode.com/problems/cheapest-flights-within-k-stops | :white_check_mark: :white_check_mark: |
 | Search in Rotated Sorted Array II | https://leetcode.com/problems/search-in-rotated-sorted-array-ii | :white_check_mark: MUST REVIEW, quite instructive |
 | Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums | :white_check_mark: :grey_exclamation: |
 | Range Sum Query 2D - Immutable :bangbang: | https://leetcode.com/problems/range-sum-query-2d-immutable | :white_check_mark: REVIEW, INSTRUCTIVE PREFIX CALCULATION |
@@ -422,7 +422,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Word Search II | https://leetcode.com/problems/word-search-ii | :white_check_mark: |
 | Word Break II | https://leetcode.com/problems/word-break-ii | :white_check_mark: very easy bactrack exercise... may be review trie/dp approach but optional i guess |
 | MinWindow | https://leetcode.com/problems/minimum-window-substring | :white_check_mark: :white_check_mark:  |
-| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: mono stack training |
+| Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram | :white_check_mark: :white_check_mark: |
 | The Skyline Problem | https://leetcode.com/problems/the-skyline-problem | :white_check_mark: do it again |
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :white_check_mark: May be review the Explore function... in general good  |
@@ -431,13 +431,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
-| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: Review, and review DP, 2 pointers solution |
+| Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: :white_check_mark:, review DP, 2 pointers solution |
 | Edit Distance | https://leetcode.com/problems/edit-distance | :white_check_mark: :bangbang: |
 | Wildcard Matching | https://leetcode.com/problems/wildcard-matching | :white_check_mark: |
 | Basic Calculator | https://leetcode.com/problems/basic-calculator | :white_check_mark: what a pain |
 | Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream | :white_check_mark: review binary search |
 | Merge k Sorted Lists | https://leetcode.com/problems/merge-k-sorted-lists | :white_check_mark: :white_check_mark: |
-| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: NEEDS REVIEW |
+| Maximal Rectangle | https://leetcode.com/problems/maximal-rectangle | :white_check_mark: :white_check_mark: |
 | Integer to English Words | https://leetcode.com/problems/integer-to-english-words | :white_check_mark: BS |
 | (SD) Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree | :white_check_mark: |
 | Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays | :o: |
@@ -464,9 +464,9 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :white_check_mark: |
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
 | Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
-| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :o: |
+| Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :white_check_mark: |
 | Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o: | 
-| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :o: |
+| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o:  | 
+| Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :white_check_mark: |
 | Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
 

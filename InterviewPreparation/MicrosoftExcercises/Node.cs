@@ -1,4 +1,6 @@
-﻿namespace InterviewPreparation.MicrosoftExcercises
+﻿using System.Collections.Generic;
+
+namespace InterviewPreparation.MicrosoftExcercises
 {
     public class Node
     {
@@ -7,6 +9,7 @@
         public Node left;
         public Node right;
         public Node random;
+        public IList<Node> children = new List<Node>();
 
         public Node()
         {
