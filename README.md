@@ -258,7 +258,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Remove K Digits | https://leetcode.com/problems/remove-k-digits | :white_check_mark: :grey_exclamation: Mono stack :white_check_mark: |
 | Compare Version Numbers | https://leetcode.com/problems/compare-version-numbers | :grey_exclamation: :white_check_mark: |
 | Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal | :white_check_mark: |
-| (SD) LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: |
+| (SD) . Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: |
 | Spiral Matrix | https://leetcode.com/problems/spiral-matrix |  :white_check_mark: |
 | Number of Islands | https://leetcode.com/problems/number-of-islands | :white_check_mark: |
 | Add Two Numbers II | https://leetcode.com/problems/add-two-numbers-ii | :white_check_mark: |
@@ -310,13 +310,13 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Gas Station | https://leetcode.com/problems/gas-station | :white_check_mark: :grey_exclamation: |
 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree | :white_check_mark: :grey_exclamation: |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman | :white_check_mark: |
-| Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
+| Knight Dialer | https://leetcode.com/problems/knight-dialer | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku | :white_check_mark: |
 | Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list | :white_check_mark: |
 | Reorder List | https://leetcode.com/problems/reorder-list | :white_check_mark: |
 | Shopping Offers | https://leetcode.com/problems/shopping-offers | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
-| LRU Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE |
+| . Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE :white_check_mark: |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
@@ -341,7 +341,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation | :white_check_mark: |
 | Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view | :white_check_mark: |
 | Print Binary Tree | https://leetcode.com/problems/print-binary-tree | :white_check_mark: |
-| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :white_check_mark: |
+| Knight Probability in Chessboard | https://leetcode.com/problems/knight-probability-in-chessboard | :white_check_mark: :white_check_mark: |
 | Letter Case Permutation | https://leetcode.com/problems/letter-case-permutation | :white_check_mark: |
 | Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence | :white_check_mark: :white_check_mark: |
 | Continuous Subarray Sum | https://leetcode.com/problems/continuous-subarray-sum | :white_check_mark: :white_check_mark: :grey_exclamation: |
