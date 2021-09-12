@@ -103,7 +103,7 @@ The idea of this repository is to walk through the most common exercises of the 
 | Search a 2D Matrix II | https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/806/ | :white_check_mark: Check divide and conquer sol|
 | Jump Game | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/ | :white_check_mark: |
 | Unique Paths | https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/ | :white_check_mark: |
-| Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :white_check_mark: |
+| Coin Change :bangbang:| https://leetcode.com/problems/coin-change/ | :white_check_mark: :white_check_mark:  |
 | Longest Increasing Subsequence| https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/ | :white_check_mark: |
 | Coin Change 2 | https://leetcode.com/problems/coin-change-2/ | :o: |
 | Max Subset Sum No Adjacent :bangbang:| https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/ | :o: |
@@ -281,7 +281,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Majority Element II | https://leetcode.com/problems/majority-element-ii | :white_check_mark: :grey_exclamation: voting :white_check_mark: :grey_exclamation: last part|
 | Delete Node in a BST | https://leetcode.com/problems/delete-node-in-a-bst | :white_check_mark: probably needs a review, kinda tricky |
 | Next Permutation | https://leetcode.com/problems/next-permutation | :white_check_mark: :grey_exclamation: :white_check_mark: good idea to train again |
-| Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: |
+| Coin Change | https://leetcode.com/problems/coin-change | :white_check_mark: :white_check_mark: |
 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii | :white_check_mark: |
 | Minesweeper | https://leetcode.com/problems/minesweeper | :white_check_mark: |
 | Trim a Binary Search Tree | https://leetcode.com/problems/trim-a-binary-search-tree | :white_check_mark: |
@@ -318,7 +318,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Clone Graph | https://leetcode.com/problems/clone-graph | :white_check_mark: |
 | . Cache | https://leetcode.com/problems/lru-cache/ | :white_check_mark: REVIEW LTE :white_check_mark: |
 | Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii | :white_check_mark: |
-| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: |
+| Coin Change 2 | https://leetcode.com/problems/coin-change-2 | :white_check_mark: :grey_exclamation: :white_check_mark: :grey_exclamation: :white_check_mark: |
 | Find Peak Element | https://leetcode.com/problems/find-peak-element | :white_check_mark: Maybe see the MIT video |
 | All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree | :white_check_mark: |
 | Find Duplicate Subtrees | https://leetcode.com/problems/find-duplicate-subtrees | :white_check_mark: |
