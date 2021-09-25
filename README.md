@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 263/286  91.95%
+## Actual state 267/285  93.68%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -427,8 +427,6 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Reverse Pairs | https://leetcode.com/problems/reverse-pairs | :white_check_mark: interesting |
 | Sudoku Solver | https://leetcode.com/problems/sudoku-solver | :white_check_mark: May be review the Explore function... in general good  |
 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum | :white_check_mark: Review it, very instructive! |
-| 24 Game | https://leetcode.com/problems/24-game | :o: |
-| Trapping Rain Water II | https://leetcode.com/problems/trapping-rain-water-ii | :o: |
 | Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii | :o: |
 | Dungeon Game | https://leetcode.com/problems/dungeon-game | :white_check_mark: |
 | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water | :white_check_mark: :white_check_mark:, review DP, 2 pointers solution |
@@ -463,10 +461,12 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Meeting Rooms II | https://leetcode.com/problems/meeting-rooms-ii | :white_check_mark: :grey_exclamation: | 
 | (SD) Design Tic-Tac-Toe | https://leetcode.com/problems/design-tic-tac-toe | :white_check_mark: |
 | Basic Calculator III | https://leetcode.com/problems/basic-calculator-iii | :o: |
-| Maximum Vacation Days | https://leetcode.com/problems/maximum-vacation-days | :o: |
 | Serialize and Deserialize N-ary Tree | https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree | :white_check_mark: |
-| Employee Free Time | https://leetcode.com/problems/employee-free-time | :o: |
-| K Empty Slots | https://leetcode.com/problems/k-empty-slots | :o:  | 
 | Design Search Autocomplete System | https://leetcode.com/problems/design-search-autocomplete-system | :white_check_mark: |
-| Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :o: |
+| Alien Dictionary | https://leetcode.com/problems/alien-dictionary | :white_check_mark: |
+
+| My calendar II | https://leetcode.com/problems/alien-dictionary | :white_check_mark: !!!! segmented tree|
+| Path sum II | https://leetcode.com/problems/path-sum-ii | :white_check_mark: |
+| Path sum III | https://leetcode.com/problems/path-sum-iii | :white_check_mark: !!!! prefix sum|
+| Total anagrams | https://leetcode.com/problems/find-all-anagrams-in-a-string | :white_check_mark: |
 
