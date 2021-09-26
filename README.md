@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 271/289  93.77%
+## Actual state 273/291  93.81%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -472,4 +472,6 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Valid tree | https://leetcode.com/problems/graph-valid-tree/solution/ | :white_check_mark: |
 | Sort diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ | :white_check_mark: |
 | Partition Labels | https://leetcode.com/problems/partition-labels | :white_check_mark: COOL GREEDY |
+| LCA III | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii | :white_check_mark: |
+| Unique paths III | https://leetcode.com/problems/unique-paths-iii | :white_check_mark: |
 
