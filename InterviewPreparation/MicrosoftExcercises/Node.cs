@@ -10,6 +10,7 @@ namespace InterviewPreparation.MicrosoftExcercises
         public Node right;
         public Node random;
         public IList<Node> children = new List<Node>();
+        internal Node parent;
 
         public Node()
         {
