@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 269/287  93.72%
+## Actual state 271/289  93.77%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -471,4 +471,5 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Total anagrams | https://leetcode.com/problems/find-all-anagrams-in-a-string | :white_check_mark: |
 | Valid tree | https://leetcode.com/problems/graph-valid-tree/solution/ | :white_check_mark: |
 | Sort diagonally | https://leetcode.com/problems/sort-the-matrix-diagonally/ | :white_check_mark: |
+| Partition Labels | https://leetcode.com/problems/partition-labels | :white_check_mark: COOL GREEDY |
 
