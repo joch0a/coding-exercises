@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 274/292  93.81%
+## Actual state 277/295  93.89%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -475,6 +475,10 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | LCA III | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii | :white_check_mark: |
 | Unique paths III | https://leetcode.com/problems/unique-paths-iii | :white_check_mark: |
 | Minimum Number of Steps to Make Two Strings Anagram | https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ | :white_check_mark:  REVIEW|
+| Count Square Submatrices with All Ones | https://leetcode.com/problems/count-square-submatrices-with-all-ones/ | :white_check_mark: |
+| Remove All Occurrences of a Substring | https://leetcode.com/problems/remove-all-occurrences-of-a-substring/ | :white_check_mark: |
+| Search in a Sorted Array of Unknown Size| https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/ | :white_check_mark: |
+| Web Crawler | https://leetcode.com/problems/web-crawler | :white_check_mark: |
 
 
 
