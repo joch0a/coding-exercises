@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 279/297  93.81%
+## Actual state 284/302  93.81%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -476,6 +476,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Unique paths III | https://leetcode.com/problems/unique-paths-iii | :white_check_mark: |
 | Minimum Number of Steps to Make Two Strings Anagram | https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ | :white_check_mark:  REVIEW|
 | Rotating the Box | https://leetcode.com/problems/rotating-the-box/ | :white_check_mark: |
+| Maximum frequency stack| https://leetcode.com/problems/maximum-frequency-stack | :white_check_mark: cool lfu cache like |
+| Strobogrammatic | https://leetcode.com/problems/strobogrammatic-number/ | :white_check_mark: |
+| Maximum Number of Balloons | https://leetcode.com/problems/maximum-number-of-balloons | :white_check_mark: |
+| Number of connected components | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | :white_check_mark: |
+| Find Duplicate File in System | https://leetcode.com/problems/find-duplicate-file-in-system/solution/ | :white_check_mark: |
 
 
 
