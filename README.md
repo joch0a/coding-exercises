@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 278/296  93.81%
+## Actual state 279/297  93.81%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -475,6 +475,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | LCA III | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii | :white_check_mark: |
 | Unique paths III | https://leetcode.com/problems/unique-paths-iii | :white_check_mark: |
 | Minimum Number of Steps to Make Two Strings Anagram | https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ | :white_check_mark:  REVIEW|
+| Rotating the Box | https://leetcode.com/problems/rotating-the-box/ | :white_check_mark: |
 
 
 
