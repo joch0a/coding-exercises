@@ -179,7 +179,7 @@ The following exercises were randomly picked it from LC to test what I've learnt
 # Complete study plan 
 ## The following excercise should be resolved WITHOUT looking to any solution based on previous ones.
 
-## Actual state 284/302  93.81%
+## Actual state 289/307  94.13%
 | Name      | Resource link | Status |
 | --------- | ----- | -----:|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix | :white_check_mark: | 
@@ -481,6 +481,11 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Number of Balloons | https://leetcode.com/problems/maximum-number-of-balloons | :white_check_mark: |
 | Number of connected components | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | :white_check_mark: |
 | Find Duplicate File in System | https://leetcode.com/problems/find-duplicate-file-in-system/solution/ | :white_check_mark: |
+| Minimum Moves to Equal Array Elements II | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ | :white_check_mark:  |
+| Max Chunks To Make Sorted | https://leetcode.com/problems/max-chunks-to-make-sorted/ | :white_check_mark: |
+| Max Chunks To Make Sorted II  | https://leetcode.com/problems/lexicographical-numbers/ | :white_check_mark: |
+| Max Consecutive Ones III | https://leetcode.com/problems/max-consecutive-ones-iii/ | :white_check_mark: review |
+| House Robber II | https://leetcode.com/problems/house-robber-ii/| :white_check_mark: |
 | String Without AAA or BBB | https://leetcode.com/problems/string-without-aaa-or-bbb/ | :white_check_mark: |
 
 
