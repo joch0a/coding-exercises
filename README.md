@@ -481,6 +481,6 @@ The following exercises were randomly picked it from LC to test what I've learnt
 | Maximum Number of Balloons | https://leetcode.com/problems/maximum-number-of-balloons | :white_check_mark: |
 | Number of connected components | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/ | :white_check_mark: |
 | Find Duplicate File in System | https://leetcode.com/problems/find-duplicate-file-in-system/solution/ | :white_check_mark: |
-
+| String Without AAA or BBB | https://leetcode.com/problems/string-without-aaa-or-bbb/ | :white_check_mark: |
 
 
