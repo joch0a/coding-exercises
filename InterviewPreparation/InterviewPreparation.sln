@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ReverseString2.cs = ReverseString2.cs
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOD", "..\OOD\OOD.csproj", "{C78476B4-33FC-4A45-8201-1CFF751A6053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{194B2B96-43E2-40EB-98EB-98EA00A7B44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{194B2B96-43E2-40EB-98EB-98EA00A7B44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{194B2B96-43E2-40EB-98EB-98EA00A7B44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78476B4-33FC-4A45-8201-1CFF751A6053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78476B4-33FC-4A45-8201-1CFF751A6053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78476B4-33FC-4A45-8201-1CFF751A6053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78476B4-33FC-4A45-8201-1CFF751A6053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
